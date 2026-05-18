@@ -1,0 +1,8 @@
+condition,count,total_ips
+first_launch_success == 1,91,132
+first_error == No error,126,132
+first_sent_per_ip < 10000,92,132
+safe_duration_days > 0,41,132
+launch_success & no_error,88,132
+launch_success & no_error & sent_volume,88,132
+ALL strict conditions,35,132

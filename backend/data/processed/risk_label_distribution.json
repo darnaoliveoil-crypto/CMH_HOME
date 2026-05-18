@@ -1,0 +1,14 @@
+[
+    {
+        "risk_label":"Safe",
+        "count":1880
+    },
+    {
+        "risk_label":"Risk",
+        "count":622
+    },
+    {
+        "risk_label":"Dangerous",
+        "count":423
+    }
+]

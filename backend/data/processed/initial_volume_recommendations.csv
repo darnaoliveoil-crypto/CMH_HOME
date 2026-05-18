@@ -1,0 +1,7 @@
+metric,value
+recommended_initial_volume,3350.0
+recommended_drops_per_day,8.0
+recommended_growth_rate,0.0
+recommended_time_gap_min,19.996666666666666
+recommended_maximum_safe_volume,23476.0
+number_of_safe_start_ips_used,35.0

@@ -1,0 +1,397 @@
+ip,rank,feature,contribution_score,explanation
+194.54.185.172,1,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+194.54.185.172,2,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+194.54.185.172,3,growth_rate,0.0,High growth increases reputation risk.
+194.54.185.183,1,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+194.54.185.183,2,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+194.54.185.183,3,growth_rate,0.0,High growth increases reputation risk.
+194.54.185.171,1,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+194.54.185.171,2,sent_ratio,1.0,Low sent ratio indicates delivery instability.
+194.54.185.171,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+194.54.185.189,1,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+194.54.185.189,2,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+194.54.185.189,3,growth_rate,0.0,High growth increases reputation risk.
+194.54.185.185,1,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+194.54.185.185,2,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+194.54.185.185,3,growth_rate,0.0,High growth increases reputation risk.
+194.54.185.188,1,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+194.54.185.188,2,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+194.54.185.188,3,growth_rate,0.0,High growth increases reputation risk.
+194.54.185.184,1,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+194.54.185.184,2,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+194.54.185.184,3,growth_rate,0.0,High growth increases reputation risk.
+194.54.185.179,1,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+194.54.185.179,2,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+194.54.185.179,3,growth_rate,0.0,High growth increases reputation risk.
+194.54.185.180,1,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+194.54.185.180,2,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+194.54.185.180,3,growth_rate,0.0,High growth increases reputation risk.
+194.54.185.181,1,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+194.54.185.181,2,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+194.54.185.181,3,growth_rate,0.0,High growth increases reputation risk.
+194.54.185.182,1,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+194.54.185.182,2,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+194.54.185.182,3,growth_rate,0.0,High growth increases reputation risk.
+194.54.185.173,1,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+194.54.185.173,2,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+194.54.185.173,3,growth_rate,0.0,High growth increases reputation risk.
+194.54.185.177,1,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+194.54.185.177,2,sent_ratio,0.664,Low sent ratio indicates delivery instability.
+194.54.185.177,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+194.54.185.187,1,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+194.54.185.187,2,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+194.54.185.187,3,growth_rate,0.0,High growth increases reputation risk.
+194.54.185.178,1,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+194.54.185.178,2,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+194.54.185.178,3,growth_rate,0.0,High growth increases reputation risk.
+144.31.84.7,1,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+144.31.84.7,2,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+144.31.84.7,3,growth_rate,0.0,High growth increases reputation risk.
+144.31.139.61,1,growth_rate,0.7942,High growth increases reputation risk.
+144.31.139.61,2,limit_usage_ratio,0.523,High limit usage puts pressure on the IP.
+144.31.139.61,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+144.31.117.123,1,growth_rate,0.7942,High growth increases reputation risk.
+144.31.117.123,2,limit_usage_ratio,0.523,High limit usage puts pressure on the IP.
+144.31.117.123,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+144.31.138.131,1,growth_rate,0.7942,High growth increases reputation risk.
+144.31.138.131,2,limit_usage_ratio,0.523,High limit usage puts pressure on the IP.
+144.31.138.131,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+144.31.117.11,1,growth_rate,0.7942,High growth increases reputation risk.
+144.31.117.11,2,limit_usage_ratio,0.524,High limit usage puts pressure on the IP.
+144.31.117.11,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+144.31.139.217,1,growth_rate,0.7942,High growth increases reputation risk.
+144.31.139.217,2,limit_usage_ratio,0.523,High limit usage puts pressure on the IP.
+144.31.139.217,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+144.31.117.98,1,growth_rate,0.7942,High growth increases reputation risk.
+144.31.117.98,2,limit_usage_ratio,0.524,High limit usage puts pressure on the IP.
+144.31.117.98,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+144.31.117.149,1,growth_rate,0.7942,High growth increases reputation risk.
+144.31.117.149,2,limit_usage_ratio,0.523,High limit usage puts pressure on the IP.
+144.31.117.149,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+198.12.123.228,1,growth_rate,1.0,High growth increases reputation risk.
+198.12.123.228,2,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+198.12.123.228,3,sent_ratio,1.0,Low sent ratio indicates delivery instability.
+198.12.123.234,1,growth_rate,1.0,High growth increases reputation risk.
+198.12.123.234,2,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+198.12.123.234,3,sent_ratio,1.0,Low sent ratio indicates delivery instability.
+198.12.123.229,1,growth_rate,1.0,High growth increases reputation risk.
+198.12.123.229,2,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+198.12.123.229,3,sent_ratio,1.0,Low sent ratio indicates delivery instability.
+198.12.123.235,1,growth_rate,1.0,High growth increases reputation risk.
+198.12.123.235,2,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+198.12.123.235,3,sent_ratio,1.0,Low sent ratio indicates delivery instability.
+198.12.123.230,1,growth_rate,1.0,High growth increases reputation risk.
+198.12.123.230,2,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+198.12.123.230,3,sent_ratio,1.0,Low sent ratio indicates delivery instability.
+51.75.165.100,1,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+51.75.165.100,2,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+51.75.165.100,3,growth_rate,0.0,High growth increases reputation risk.
+51.75.165.108,1,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+51.75.165.108,2,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+51.75.165.108,3,growth_rate,0.0,High growth increases reputation risk.
+69.162.64.210,1,limit_usage_ratio,0.286,High limit usage puts pressure on the IP.
+69.162.64.210,2,growth_rate,0.1626,High growth increases reputation risk.
+69.162.64.210,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+69.162.64.214,1,limit_usage_ratio,0.286,High limit usage puts pressure on the IP.
+69.162.64.214,2,growth_rate,0.1629,High growth increases reputation risk.
+69.162.64.214,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+198.12.123.239,1,growth_rate,1.0,High growth increases reputation risk.
+198.12.123.239,2,sent_ratio,1.0,Low sent ratio indicates delivery instability.
+198.12.123.239,3,limit_usage_ratio,0.991,High limit usage puts pressure on the IP.
+198.12.123.237,1,sent_ratio,1.0,Low sent ratio indicates delivery instability.
+198.12.123.237,2,limit_usage_ratio,0.991,High limit usage puts pressure on the IP.
+198.12.123.237,3,growth_rate,0.841,High growth increases reputation risk.
+198.12.123.249,1,growth_rate,1.0,High growth increases reputation risk.
+198.12.123.249,2,limit_usage_ratio,0.991,High limit usage puts pressure on the IP.
+198.12.123.249,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+198.12.123.241,1,growth_rate,1.0,High growth increases reputation risk.
+198.12.123.241,2,limit_usage_ratio,0.991,High limit usage puts pressure on the IP.
+198.12.123.241,3,sent_ratio,0.307,Low sent ratio indicates delivery instability.
+198.12.123.253,1,growth_rate,1.0,High growth increases reputation risk.
+198.12.123.253,2,limit_usage_ratio,0.991,High limit usage puts pressure on the IP.
+198.12.123.253,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+198.12.123.251,1,growth_rate,1.0,High growth increases reputation risk.
+198.12.123.251,2,limit_usage_ratio,0.991,High limit usage puts pressure on the IP.
+198.12.123.251,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+198.12.123.227,1,growth_rate,1.0,High growth increases reputation risk.
+198.12.123.227,2,sent_ratio,1.0,Low sent ratio indicates delivery instability.
+198.12.123.227,3,limit_usage_ratio,0.991,High limit usage puts pressure on the IP.
+198.12.123.245,1,growth_rate,1.0,High growth increases reputation risk.
+198.12.123.245,2,sent_ratio,1.0,Low sent ratio indicates delivery instability.
+198.12.123.245,3,limit_usage_ratio,0.991,High limit usage puts pressure on the IP.
+198.12.123.247,1,growth_rate,1.0,High growth increases reputation risk.
+198.12.123.247,2,sent_ratio,1.0,Low sent ratio indicates delivery instability.
+198.12.123.247,3,limit_usage_ratio,0.991,High limit usage puts pressure on the IP.
+198.12.123.243,1,growth_rate,1.0,High growth increases reputation risk.
+198.12.123.243,2,limit_usage_ratio,0.991,High limit usage puts pressure on the IP.
+198.12.123.243,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+198.12.123.238,1,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+198.12.123.238,2,sent_ratio,1.0,Low sent ratio indicates delivery instability.
+198.12.123.238,3,growth_rate,0.8889,High growth increases reputation risk.
+198.12.123.246,1,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+198.12.123.246,2,growth_rate,0.8889,High growth increases reputation risk.
+198.12.123.246,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+198.12.123.252,1,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+198.12.123.252,2,growth_rate,0.8889,High growth increases reputation risk.
+198.12.123.252,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+198.12.123.244,1,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+198.12.123.244,2,sent_ratio,1.0,Low sent ratio indicates delivery instability.
+198.12.123.244,3,growth_rate,0.8889,High growth increases reputation risk.
+198.12.123.240,1,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+198.12.123.240,2,sent_ratio,1.0,Low sent ratio indicates delivery instability.
+198.12.123.240,3,growth_rate,0.8889,High growth increases reputation risk.
+198.12.123.254,1,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+198.12.123.254,2,growth_rate,0.8889,High growth increases reputation risk.
+198.12.123.254,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+198.12.123.236,1,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+198.12.123.236,2,sent_ratio,1.0,Low sent ratio indicates delivery instability.
+198.12.123.236,3,growth_rate,0.8889,High growth increases reputation risk.
+198.12.123.250,1,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+198.12.123.250,2,growth_rate,0.8889,High growth increases reputation risk.
+198.12.123.250,3,sent_ratio,0.522,Low sent ratio indicates delivery instability.
+198.12.123.248,1,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+198.12.123.248,2,sent_ratio,1.0,Low sent ratio indicates delivery instability.
+198.12.123.248,3,growth_rate,0.8889,High growth increases reputation risk.
+198.12.123.242,1,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+198.12.123.242,2,growth_rate,0.8889,High growth increases reputation risk.
+198.12.123.242,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+69.162.64.213,1,limit_usage_ratio,0.091,High limit usage puts pressure on the IP.
+69.162.64.213,2,growth_rate,0.0521,High growth increases reputation risk.
+69.162.64.213,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+5.135.75.177,1,limit_usage_ratio,0.333,High limit usage puts pressure on the IP.
+5.135.75.177,2,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+5.135.75.177,3,growth_rate,0.0,High growth increases reputation risk.
+5.135.75.178,1,sent_ratio,1.0,Low sent ratio indicates delivery instability.
+5.135.75.178,2,limit_usage_ratio,0.333,High limit usage puts pressure on the IP.
+5.135.75.178,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+5.135.75.179,1,sent_ratio,0.931,Low sent ratio indicates delivery instability.
+5.135.75.179,2,limit_usage_ratio,0.333,High limit usage puts pressure on the IP.
+5.135.75.179,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+5.135.75.180,1,growth_rate,1.0,High growth increases reputation risk.
+5.135.75.180,2,sent_ratio,1.0,Low sent ratio indicates delivery instability.
+5.135.75.180,3,limit_usage_ratio,0.333,High limit usage puts pressure on the IP.
+5.135.75.181,1,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+5.135.75.181,2,sent_ratio,1.0,Low sent ratio indicates delivery instability.
+5.135.75.181,3,netblock_error_probability,0.01,Netblock probability directly increases blocking risk.
+23.231.25.49,1,growth_rate,1.0,High growth increases reputation risk.
+23.231.25.49,2,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+23.231.25.49,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+23.231.25.57,1,growth_rate,1.0,High growth increases reputation risk.
+23.231.25.57,2,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+23.231.25.57,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+23.231.25.58,1,growth_rate,1.0,High growth increases reputation risk.
+23.231.25.58,2,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+23.231.25.58,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+23.231.25.59,1,growth_rate,1.0,High growth increases reputation risk.
+23.231.25.59,2,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+23.231.25.59,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+23.231.25.61,1,growth_rate,1.0,High growth increases reputation risk.
+23.231.25.61,2,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+23.231.25.61,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+23.231.25.62,1,growth_rate,1.0,High growth increases reputation risk.
+23.231.25.62,2,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+23.231.25.62,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+23.231.25.56,1,growth_rate,1.0,High growth increases reputation risk.
+23.231.25.56,2,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+23.231.25.56,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+23.231.25.55,1,growth_rate,1.0,High growth increases reputation risk.
+23.231.25.55,2,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+23.231.25.55,3,sent_ratio,0.021,Low sent ratio indicates delivery instability.
+23.231.25.54,1,growth_rate,1.0,High growth increases reputation risk.
+23.231.25.54,2,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+23.231.25.54,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+23.231.25.53,1,growth_rate,1.0,High growth increases reputation risk.
+23.231.25.53,2,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+23.231.25.53,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+23.231.25.52,1,growth_rate,1.0,High growth increases reputation risk.
+23.231.25.52,2,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+23.231.25.52,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+23.231.25.47,1,growth_rate,1.0,High growth increases reputation risk.
+23.231.25.47,2,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+23.231.25.47,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+23.231.25.51,1,growth_rate,1.0,High growth increases reputation risk.
+23.231.25.51,2,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+23.231.25.51,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+107.6.171.228,1,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+107.6.171.228,2,sent_ratio,1.0,Low sent ratio indicates delivery instability.
+107.6.171.228,3,growth_rate,0.9547,High growth increases reputation risk.
+107.6.171.230,1,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+107.6.171.230,2,growth_rate,0.9547,High growth increases reputation risk.
+107.6.171.230,3,sent_ratio,0.815,Low sent ratio indicates delivery instability.
+107.6.171.227,1,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+107.6.171.227,2,sent_ratio,1.0,Low sent ratio indicates delivery instability.
+107.6.171.227,3,growth_rate,0.9547,High growth increases reputation risk.
+173.236.32.78,1,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+173.236.32.78,2,growth_rate,0.0606,High growth increases reputation risk.
+173.236.32.78,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+192.227.72.167,1,limit_usage_ratio,0.5,High limit usage puts pressure on the IP.
+192.227.72.167,2,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+192.227.72.167,3,growth_rate,0.0,High growth increases reputation risk.
+69.162.64.212,1,sent_ratio,0.987,Low sent ratio indicates delivery instability.
+69.162.64.212,2,limit_usage_ratio,0.5,High limit usage puts pressure on the IP.
+69.162.64.212,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+89.117.12.45,1,growth_rate,1.0,High growth increases reputation risk.
+89.117.12.45,2,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+89.117.12.45,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+89.116.64.220,1,growth_rate,1.0,High growth increases reputation risk.
+89.116.64.220,2,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+89.116.64.220,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+89.117.12.14,1,growth_rate,1.0,High growth increases reputation risk.
+89.117.12.14,2,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+89.117.12.14,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+89.117.12.18,1,growth_rate,1.0,High growth increases reputation risk.
+89.117.12.18,2,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+89.117.12.18,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+89.117.12.28,1,growth_rate,1.0,High growth increases reputation risk.
+89.117.12.28,2,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+89.117.12.28,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+89.117.12.21,1,growth_rate,1.0,High growth increases reputation risk.
+89.117.12.21,2,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+89.117.12.21,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+89.117.12.48,1,growth_rate,1.0,High growth increases reputation risk.
+89.117.12.48,2,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+89.117.12.48,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+89.116.64.240,1,growth_rate,1.0,High growth increases reputation risk.
+89.116.64.240,2,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+89.116.64.240,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+89.117.12.26,1,growth_rate,1.0,High growth increases reputation risk.
+89.117.12.26,2,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+89.117.12.26,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+89.117.12.8,1,growth_rate,1.0,High growth increases reputation risk.
+89.117.12.8,2,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+89.117.12.8,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+89.117.12.9,1,growth_rate,1.0,High growth increases reputation risk.
+89.117.12.9,2,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+89.117.12.9,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+89.116.64.219,1,growth_rate,1.0,High growth increases reputation risk.
+89.116.64.219,2,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+89.116.64.219,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+23.19.114.9,1,growth_rate,1.0,High growth increases reputation risk.
+23.19.114.9,2,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+23.19.114.9,3,sent_ratio,1.0,Low sent ratio indicates delivery instability.
+23.82.139.242,1,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+23.82.139.242,2,sent_ratio,0.997,Low sent ratio indicates delivery instability.
+23.82.139.242,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+51.68.222.162,1,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+51.68.222.162,2,sent_ratio,0.532,Low sent ratio indicates delivery instability.
+51.68.222.162,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+51.75.164.228,1,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+51.75.164.228,2,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+51.75.164.228,3,growth_rate,0.0,High growth increases reputation risk.
+91.223.3.204,1,growth_rate,1.0,High growth increases reputation risk.
+91.223.3.204,2,limit_usage_ratio,0.192,High limit usage puts pressure on the IP.
+91.223.3.204,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+91.223.3.150,1,growth_rate,1.0,High growth increases reputation risk.
+91.223.3.150,2,limit_usage_ratio,0.192,High limit usage puts pressure on the IP.
+91.223.3.150,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+91.223.3.195,1,growth_rate,1.0,High growth increases reputation risk.
+91.223.3.195,2,limit_usage_ratio,0.192,High limit usage puts pressure on the IP.
+91.223.3.195,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+91.223.3.197,1,growth_rate,1.0,High growth increases reputation risk.
+91.223.3.197,2,limit_usage_ratio,0.192,High limit usage puts pressure on the IP.
+91.223.3.197,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+91.223.3.199,1,growth_rate,1.0,High growth increases reputation risk.
+91.223.3.199,2,limit_usage_ratio,0.192,High limit usage puts pressure on the IP.
+91.223.3.199,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+91.223.3.209,1,growth_rate,1.0,High growth increases reputation risk.
+91.223.3.209,2,limit_usage_ratio,0.192,High limit usage puts pressure on the IP.
+91.223.3.209,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+91.223.3.208,1,growth_rate,1.0,High growth increases reputation risk.
+91.223.3.208,2,limit_usage_ratio,0.192,High limit usage puts pressure on the IP.
+91.223.3.208,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+91.223.3.187,1,growth_rate,1.0,High growth increases reputation risk.
+91.223.3.187,2,limit_usage_ratio,0.192,High limit usage puts pressure on the IP.
+91.223.3.187,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+91.223.3.194,1,growth_rate,1.0,High growth increases reputation risk.
+91.223.3.194,2,limit_usage_ratio,0.192,High limit usage puts pressure on the IP.
+91.223.3.194,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+91.223.3.189,1,growth_rate,1.0,High growth increases reputation risk.
+91.223.3.189,2,limit_usage_ratio,0.192,High limit usage puts pressure on the IP.
+91.223.3.189,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+91.223.3.198,1,growth_rate,1.0,High growth increases reputation risk.
+91.223.3.198,2,limit_usage_ratio,0.192,High limit usage puts pressure on the IP.
+91.223.3.198,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+91.223.3.200,1,growth_rate,1.0,High growth increases reputation risk.
+91.223.3.200,2,limit_usage_ratio,0.192,High limit usage puts pressure on the IP.
+91.223.3.200,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+91.223.3.196,1,growth_rate,1.0,High growth increases reputation risk.
+91.223.3.196,2,limit_usage_ratio,0.192,High limit usage puts pressure on the IP.
+91.223.3.196,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+91.223.3.186,1,growth_rate,1.0,High growth increases reputation risk.
+91.223.3.186,2,limit_usage_ratio,0.192,High limit usage puts pressure on the IP.
+91.223.3.186,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+51.161.79.217,1,growth_rate,1.0,High growth increases reputation risk.
+51.161.79.217,2,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+51.161.79.217,3,sent_ratio,1.0,Low sent ratio indicates delivery instability.
+158.69.54.111,1,growth_rate,1.0,High growth increases reputation risk.
+158.69.54.111,2,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+158.69.54.111,3,sent_ratio,0.819,Low sent ratio indicates delivery instability.
+173.236.32.77,1,growth_rate,1.0,High growth increases reputation risk.
+173.236.32.77,2,limit_usage_ratio,0.165,High limit usage puts pressure on the IP.
+173.236.32.77,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+173.236.32.74,1,growth_rate,1.0,High growth increases reputation risk.
+173.236.32.74,2,limit_usage_ratio,0.165,High limit usage puts pressure on the IP.
+173.236.32.74,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+173.236.32.76,1,growth_rate,1.0,High growth increases reputation risk.
+173.236.32.76,2,limit_usage_ratio,0.165,High limit usage puts pressure on the IP.
+173.236.32.76,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+135.125.140.36,1,growth_rate,1.0,High growth increases reputation risk.
+135.125.140.36,2,limit_usage_ratio,0.122,High limit usage puts pressure on the IP.
+135.125.140.36,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+135.125.140.51,1,growth_rate,1.0,High growth increases reputation risk.
+135.125.140.51,2,limit_usage_ratio,0.122,High limit usage puts pressure on the IP.
+135.125.140.51,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+192.227.72.168,1,growth_rate,1.0,High growth increases reputation risk.
+192.227.72.168,2,limit_usage_ratio,0.061,High limit usage puts pressure on the IP.
+192.227.72.168,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+51.254.12.38,1,growth_rate,1.0,High growth increases reputation risk.
+51.254.12.38,2,limit_usage_ratio,0.12,High limit usage puts pressure on the IP.
+51.254.12.38,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+51.254.12.39,1,growth_rate,1.0,High growth increases reputation risk.
+51.254.12.39,2,limit_usage_ratio,0.12,High limit usage puts pressure on the IP.
+51.254.12.39,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+217.182.198.9,1,growth_rate,1.0,High growth increases reputation risk.
+217.182.198.9,2,limit_usage_ratio,0.122,High limit usage puts pressure on the IP.
+217.182.198.9,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+192.227.72.165,1,growth_rate,1.0,High growth increases reputation risk.
+192.227.72.165,2,limit_usage_ratio,0.061,High limit usage puts pressure on the IP.
+192.227.72.165,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+51.254.12.40,1,growth_rate,1.0,High growth increases reputation risk.
+51.254.12.40,2,limit_usage_ratio,0.12,High limit usage puts pressure on the IP.
+51.254.12.40,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+51.254.12.41,1,growth_rate,1.0,High growth increases reputation risk.
+51.254.12.41,2,limit_usage_ratio,0.12,High limit usage puts pressure on the IP.
+51.254.12.41,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+135.125.140.52,1,growth_rate,1.0,High growth increases reputation risk.
+135.125.140.52,2,limit_usage_ratio,0.122,High limit usage puts pressure on the IP.
+135.125.140.52,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+142.147.96.124,1,growth_rate,0.6522,High growth increases reputation risk.
+142.147.96.124,2,limit_usage_ratio,0.5,High limit usage puts pressure on the IP.
+142.147.96.124,3,sent_ratio,0.059,Low sent ratio indicates delivery instability.
+142.147.96.126,1,limit_usage_ratio,0.5,High limit usage puts pressure on the IP.
+142.147.96.126,2,growth_rate,0.306,High growth increases reputation risk.
+142.147.96.126,3,sent_ratio,0.121,Low sent ratio indicates delivery instability.
+138.226.244.76,1,limit_usage_ratio,0.5,High limit usage puts pressure on the IP.
+138.226.244.76,2,growth_rate,0.098,High growth increases reputation risk.
+138.226.244.76,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+142.147.96.125,1,limit_usage_ratio,0.5,High limit usage puts pressure on the IP.
+142.147.96.125,2,growth_rate,0.098,High growth increases reputation risk.
+142.147.96.125,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+138.226.244.77,1,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+138.226.244.77,2,growth_rate,0.0877,High growth increases reputation risk.
+138.226.244.77,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+138.226.244.75,1,limit_usage_ratio,0.667,High limit usage puts pressure on the IP.
+138.226.244.75,2,growth_rate,0.2083,High growth increases reputation risk.
+138.226.244.75,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+138.226.244.74,1,limit_usage_ratio,0.667,High limit usage puts pressure on the IP.
+138.226.244.74,2,growth_rate,0.2083,High growth increases reputation risk.
+138.226.244.74,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+142.147.96.123,1,limit_usage_ratio,0.333,High limit usage puts pressure on the IP.
+142.147.96.123,2,growth_rate,0.2083,High growth increases reputation risk.
+142.147.96.123,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+107.6.171.226,1,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+107.6.171.226,2,sent_ratio,1.0,Low sent ratio indicates delivery instability.
+107.6.171.226,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.
+107.6.171.229,1,limit_usage_ratio,1.0,High limit usage puts pressure on the IP.
+107.6.171.229,2,sent_ratio,1.0,Low sent ratio indicates delivery instability.
+107.6.171.229,3,dkim_error_probability,0.0,DKIM probability may indicate authentication issues.

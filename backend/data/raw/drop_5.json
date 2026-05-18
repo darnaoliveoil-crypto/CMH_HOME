@@ -1,0 +1,981 @@
+[
+  {
+    "byIp": 500,
+    "byServer": "#",
+    "encryptedCode": "7SRp2IemfEbLqFUOvJOEgg%3D%3D",
+    "from": "[P_RPATH]",
+    "fullMessage": "<b>TEAM: C</b> | <b>CMH8_All</b>\n📅 11/05/2026 16:45:00\n📧 Profile: ×CMH8_List_Webautomat*5\n🌐 ISP(s): N/A\n🏢 Provider: N/A\n👤 Mailer: Yousra HAMDAN\n📊 Total Out: 6274\n\n🟢 s_cmh8_3752: 6274 6274\n\n📈 Total IPs: 11 | Servers: 1\n🔢 By IP: 500\n🔢 OFFSET: 243150 | LIMIT: 5500\n\n🔗 RPath: [IP_FROM]\n✉️ From: [P_RPATH]\n\n<blockquote expandable>\n📊 <b>Server Details:</b>\n\n<b>SERVER OFFSET LIMIT</b>\ns_cmh8_3752 243150 5500\n</blockquote>\n<blockquote expandable>\n🌐 <b>Active IP Details (Quota | Out | Rest):</b>\n\n104.168.70.82: 500 | 500 | 0\n104.168.70.83: 500 | 500 | 0\n104.168.70.84: 500 | 500 | 0\n104.168.70.85: 500 | 500 | 0\n104.168.70.86: 500 | 500 | 0\n104.168.70.87: 500 | 500 | 0\n104.168.70.88: 500 | 500 | 0\n104.168.70.89: 500 | 500 | 0\n104.168.70.90: 500 | 500 | 0\n104.168.70.91: 500 | 500 | 0\n104.168.70.93: 500 | 500 | 0\n\n</blockquote>\n\n",
+    "id": "rep_1778513022018_0_34028",
+    "ipMap": {},
+    "ipVolumeMap": {},
+    "ips": [
+      "104.168.70.82",
+      "104.168.70.83",
+      "104.168.70.84",
+      "104.168.70.85",
+      "104.168.70.86",
+      "104.168.70.87",
+      "104.168.70.88",
+      "104.168.70.89",
+      "104.168.70.90",
+      "104.168.70.91",
+      "104.168.70.93"
+    ],
+    "isps": "N/A",
+    "limit": "5500",
+    "mailer": "Yousra HAMDAN",
+    "offset": "243150",
+    "outSum": 6274,
+    "packId": "pack-1778513022005-0-135",
+    "pageName": "CMH8_All",
+    "profile": "×CMH8_List_Webautomat*5",
+    "provider": "N/A",
+    "reportTime": "11/05/2026 16:45:00",
+    "rpath": "[IP_FROM]",
+    "serverData": [
+      {
+        "limit": "5500",
+        "offset": "243150",
+        "serverName": "s_cmh8_3752"
+      }
+    ],
+    "serverStatsRaw": "🟢 s_cmh8_3752: 6274 6274\n",
+    "status": "Generated",
+    "targetUrl": "http://95.216.72.6:90/deployment/deploy?action=send&id=26538914",
+    "team": "C",
+    "timestamp": "11/05/2026 16:38:30",
+    "totalIps": "11"
+  },
+  {
+    "byIp": 5400,
+    "byServer": "#",
+    "encryptedCode": "7SRp2IemfEYKMnXnI6xB%2Fg%3D%3D",
+    "from": "[P_RPATH]",
+    "fullMessage": "<b>TEAM: C</b> | <b>CMH8_All</b>\n📅 11/05/2026 16:36:01\n📧 Profile: ×CMH8_List_Webautomat*5\n🌐 ISP(s): N/A\n🏢 Provider: N/A\n👤 Mailer: Yousra HAMDAN\n📊 Total Out: 1917\n\n🟢 s_cmh8_3773: 2000 1917\n\n📈 Total IPs: 2 | Servers: 1\n🔢 By IP: 5400\n🔢 OFFSET: 232350 | LIMIT: 10800\n\n🔗 RPath: [IP_FROM]\n✉️ From: [P_RPATH]\n\n<blockquote expandable>\n📊 <b>Server Details:</b>\n\n<b>SERVER OFFSET LIMIT</b>\ns_cmh8_3773 232350 10800\n</blockquote>\n<blockquote expandable>\n🌐 <b>Active IP Details (Quota | Out | Rest):</b>\n\n217.18.208.172: 5400 | 4722 | 678\n217.18.208.173: 5400 | 4774 | 626\n\n</blockquote>\n\n<blockquote expandable>\n❗️ <b>Errors Details:</b>\n\n<b>Connection closed</b>\n217.18.208.172\n217.18.208.173\n\n<b>Rate limit SPF</b>\n217.18.208.172\n217.18.208.173\n\n</blockquote>",
+    "id": "rep_1778509703208_2_80294",
+    "ipMap": {
+      "217.18.208.172": [
+        "Connection closed",
+        "Rate limit SPF"
+      ],
+      "217.18.208.173": [
+        "Rate limit SPF",
+        "Connection closed"
+      ]
+    },
+    "ipVolumeMap": {
+      "217.18.208.172": 678,
+      "217.18.208.173": 626
+    },
+    "ips": [
+      "217.18.208.172",
+      "217.18.208.173"
+    ],
+    "isps": "N/A",
+    "limit": "10800",
+    "mailer": "Yousra HAMDAN",
+    "offset": "232350",
+    "outSum": 1917,
+    "packId": "pack-1778509703163-2-217",
+    "pageName": "CMH8_All",
+    "profile": "×CMH8_List_Webautomat*5",
+    "provider": "N/A",
+    "reportTime": "11/05/2026 16:36:01",
+    "rpath": "[IP_FROM]",
+    "serverData": [
+      {
+        "limit": "10800",
+        "offset": "232350",
+        "serverName": "s_cmh8_3773"
+      }
+    ],
+    "serverStatsRaw": "🟢 s_cmh8_3773: 2000 1917\n",
+    "status": "Generated",
+    "targetUrl": "http://95.216.72.6:90/deployment/deploy?action=send&id=26538914",
+    "team": "C",
+    "timestamp": "11/05/2026 16:29:00",
+    "totalIps": "2"
+  },
+  {
+    "byIp": 4450,
+    "byServer": "#",
+    "encryptedCode": "7SRp2IemfEYKMnXnI6xB%2Fg%3D%3D",
+    "from": "[P_RPATH]",
+    "fullMessage": "<b>TEAM: C</b> | <b>CMH8_All</b>\n📅 11/05/2026 16:19:00\n📧 Profile: ×CMH8_List_Webautomat*5\n🌐 ISP(s): N/A\n🏢 Provider: N/A\n👤 Mailer: Yousra HAMDAN\n📊 Total Out: 3464\n\n🟢 s_cmh8_3773: 10800 3464\n\n📈 Total IPs: 3 | Servers: 1\n🔢 By IP: 4450\n🔢 OFFSET: 219000 | LIMIT: 13350\n\n🔗 RPath: [IP_FROM]\n✉️ From: [P_RPATH]\n\n<blockquote expandable>\n📊 <b>Server Details:</b>\n\n<b>SERVER OFFSET LIMIT</b>\ns_cmh8_3773 219000 13350\n</blockquote>\n<blockquote expandable>\n🌐 <b>Active IP Details (Quota | Out | Rest):</b>\n\n217.18.208.174: 4450 | 1843 | 2607\n217.18.208.175: 4450 | 1673 | 2777\n217.18.208.176: 4450 | 1855 | 2595\n\n</blockquote>\n\n<blockquote expandable>\n❗️ <b>Errors Details:</b>\n\n<b>Connection closed</b>\n217.18.208.175\n217.18.208.174\n217.18.208.176\n\n<b>Rate limit SPF</b>\n217.18.208.175\n217.18.208.174\n217.18.208.176\n\n</blockquote>",
+    "id": "rep_1778511762296_0_52875",
+    "ipMap": {
+      "217.18.208.174": [
+        "Connection closed",
+        "Rate limit SPF"
+      ],
+      "217.18.208.175": [
+        "Connection closed",
+        "Rate limit SPF"
+      ],
+      "217.18.208.176": [
+        "Connection closed",
+        "Rate limit SPF"
+      ]
+    },
+    "ipVolumeMap": {
+      "217.18.208.174": 2607,
+      "217.18.208.175": 2777,
+      "217.18.208.176": 2595
+    },
+    "ips": [
+      "217.18.208.174",
+      "217.18.208.175",
+      "217.18.208.176"
+    ],
+    "isps": "N/A",
+    "limit": "13350",
+    "mailer": "Yousra HAMDAN",
+    "offset": "219000",
+    "outSum": 3464,
+    "packId": "pack-1778511762280-0-776",
+    "pageName": "CMH8_All",
+    "profile": "×CMH8_List_Webautomat*5",
+    "provider": "N/A",
+    "reportTime": "11/05/2026 16:19:00",
+    "rpath": "[IP_FROM]",
+    "serverData": [
+      {
+        "limit": "13350",
+        "offset": "219000",
+        "serverName": "s_cmh8_3773"
+      }
+    ],
+    "serverStatsRaw": "🟢 s_cmh8_3773: 10800 3464\n",
+    "status": "Generated",
+    "targetUrl": "http://95.216.72.6:90/deployment/deploy?action=send&id=26538914",
+    "team": "C",
+    "timestamp": "11/05/2026 16:12:30",
+    "totalIps": "3"
+  },
+  {
+    "byIp": 5200,
+    "byServer": "#",
+    "encryptedCode": "7SRp2IemfEYKMnXnI6xB%2Fg%3D%3D",
+    "from": "[P_RPATH]",
+    "fullMessage": "<b>TEAM: C</b> | <b>CMH8_All</b>\n📅 11/05/2026 16:11:00\n📧 Profile: ×CMH8_List_Webautomat*5\n🌐 ISP(s): N/A\n🏢 Provider: N/A\n👤 Mailer: Yousra HAMDAN\n📊 Total Out: 4164\n\n🟢 s_cmh8_3773: 5200 4164\n\n📈 Total IPs: 2 | Servers: 1\n🔢 By IP: 5200\n🔢 OFFSET: 208600 | LIMIT: 10400\n\n🔗 RPath: [IP_FROM]\n✉️ From: [P_RPATH]\n\n<blockquote expandable>\n📊 <b>Server Details:</b>\n\n<b>SERVER OFFSET LIMIT</b>\ns_cmh8_3773 208600 10400\n</blockquote>\n<blockquote expandable>\n🌐 <b>Active IP Details (Quota | Out | Rest):</b>\n\n217.18.208.172: 5200 | 4668 | 532\n217.18.208.173: 5200 | 4696 | 504\n\n</blockquote>\n\n",
+    "id": "rep_1778509703195_1_87839",
+    "ipMap": {
+      "217.18.208.172": [],
+      "217.18.208.173": []
+    },
+    "ipVolumeMap": {
+      "217.18.208.172": 532,
+      "217.18.208.173": 504
+    },
+    "ips": [
+      "217.18.208.172",
+      "217.18.208.173"
+    ],
+    "isps": "N/A",
+    "limit": "10400",
+    "mailer": "Yousra HAMDAN",
+    "offset": "208600",
+    "outSum": 4164,
+    "packId": "pack-1778509703163-1-168",
+    "pageName": "CMH8_All",
+    "profile": "×CMH8_List_Webautomat*5",
+    "provider": "N/A",
+    "reportTime": "11/05/2026 16:11:00",
+    "rpath": "[IP_FROM]",
+    "serverData": [
+      {
+        "limit": "10400",
+        "offset": "208600",
+        "serverName": "s_cmh8_3773"
+      }
+    ],
+    "serverStatsRaw": "🟢 s_cmh8_3773: 5200 4164\n",
+    "status": "Generated",
+    "targetUrl": "http://95.216.72.6:90/deployment/deploy?action=send&id=26538914",
+    "team": "C",
+    "timestamp": "11/05/2026 16:04:00",
+    "totalIps": "2"
+  },
+  {
+    "byIp": 4350,
+    "byServer": "#",
+    "encryptedCode": "7SRp2IemfEYKMnXnI6xB%2Fg%3D%3D",
+    "from": "[P_RPATH]",
+    "fullMessage": "<b>TEAM: C</b> | <b>CMH8_All</b>\n📅 11/05/2026 16:07:00\n📧 Profile: ×CMH8_List_Webautomat*5\n🌐 ISP(s): N/A\n🏢 Provider: N/A\n👤 Mailer: Yousra HAMDAN\n📊 Total Out: 8524\n\n🟢 s_cmh8_3773: 8700 8524\n\n📈 Total IPs: 3 | Servers: 1\n🔢 By IP: 4350\n🔢 OFFSET: 195550 | LIMIT: 13050\n\n🔗 RPath: [IP_FROM]\n✉️ From: [P_RPATH]\n\n<blockquote expandable>\n📊 <b>Server Details:</b>\n\n<b>SERVER OFFSET LIMIT</b>\ns_cmh8_3773 195550 13050\n</blockquote>\n<blockquote expandable>\n🌐 <b>Active IP Details (Quota | Out | Rest):</b>\n\n217.18.208.174: 4350 | 3942 | 408\n217.18.208.175: 4350 | 3909 | 441\n217.18.208.176: 4350 | 4082 | 268\n\n</blockquote>\n\n",
+    "id": "rep_1778504050094_2_95034",
+    "ipMap": {
+      "217.18.208.172": [],
+      "217.18.208.173": [],
+      "217.18.208.174": [],
+      "217.18.208.175": [],
+      "217.18.208.176": []
+    },
+    "ipVolumeMap": {
+      "217.18.208.172": 200,
+      "217.18.208.173": 88,
+      "217.18.208.174": 408,
+      "217.18.208.175": 441,
+      "217.18.208.176": 268
+    },
+    "ips": [
+      "217.18.208.174",
+      "217.18.208.175",
+      "217.18.208.176"
+    ],
+    "isps": "N/A",
+    "limit": "13050",
+    "mailer": "Yousra HAMDAN",
+    "offset": "195550",
+    "outSum": 8524,
+    "packId": "pack-1778504050058-2-487",
+    "pageName": "CMH8_All",
+    "profile": "×CMH8_List_Webautomat*5",
+    "provider": "N/A",
+    "reportTime": "11/05/2026 16:07:00",
+    "rpath": "[IP_FROM]",
+    "serverData": [
+      {
+        "limit": "13050",
+        "offset": "195550",
+        "serverName": "s_cmh8_3773"
+      }
+    ],
+    "serverStatsRaw": "🟢 s_cmh8_3773: 8700 8524\n",
+    "status": "Generated",
+    "targetUrl": "http://95.216.72.6:90/deployment/deploy?action=send&id=26538914",
+    "team": "C",
+    "timestamp": "11/05/2026 16:00:00",
+    "totalIps": "3"
+  },
+  {
+    "byIp": 5000,
+    "byServer": "#",
+    "encryptedCode": "7SRp2IemfEYKMnXnI6xB%2Fg%3D%3D",
+    "from": "[P_RPATH]",
+    "fullMessage": "<b>TEAM: C</b> | <b>CMH8_All</b>\n📅 11/05/2026 15:46:00\n📧 Profile: ×CMH8_List_Webautomat*5\n🌐 ISP(s): N/A\n🏢 Provider: N/A\n👤 Mailer: Yousra HAMDAN\n📊 Total Out: 2406\n\n🟢 s_cmh8_3773: 2400 2406\n\n📈 Total IPs: 2 | Servers: 1\n🔢 By IP: 5000\n🔢 OFFSET: 185550 | LIMIT: 10000\n\n🔗 RPath: [IP_FROM]\n✉️ From: [P_RPATH]\n\n<blockquote expandable>\n📊 <b>Server Details:</b>\n\n<b>SERVER OFFSET LIMIT</b>\ns_cmh8_3773 185550 10000\n</blockquote>\n<blockquote expandable>\n🌐 <b>Active IP Details (Quota | Out | Rest):</b>\n\n217.18.208.172: 5000 | 4406 | 594\n217.18.208.173: 5000 | 4488 | 512\n\n</blockquote>\n\n",
+    "id": "rep_1778509703179_0_68413",
+    "ipMap": {
+      "217.18.208.172": [],
+      "217.18.208.173": []
+    },
+    "ipVolumeMap": {
+      "217.18.208.172": 594,
+      "217.18.208.173": 512
+    },
+    "ips": [
+      "217.18.208.172",
+      "217.18.208.173"
+    ],
+    "isps": "N/A",
+    "limit": "10000",
+    "mailer": "Yousra HAMDAN",
+    "offset": "185550",
+    "outSum": 2406,
+    "packId": "pack-1778509703163-0-695",
+    "pageName": "CMH8_All",
+    "profile": "×CMH8_List_Webautomat*5",
+    "provider": "N/A",
+    "reportTime": "11/05/2026 15:46:00",
+    "rpath": "[IP_FROM]",
+    "serverData": [
+      {
+        "limit": "10000",
+        "offset": "185550",
+        "serverName": "s_cmh8_3773"
+      }
+    ],
+    "serverStatsRaw": "🟢 s_cmh8_3773: 2400 2406\n",
+    "status": "Generated",
+    "targetUrl": "http://95.216.72.6:90/deployment/deploy?action=send&id=26538914",
+    "team": "C",
+    "timestamp": "11/05/2026 15:39:00",
+    "totalIps": "2"
+  },
+  {
+    "byIp": 4250,
+    "byServer": "#",
+    "encryptedCode": "7SRp2IemfEYKMnXnI6xB%2Fg%3D%3D",
+    "from": "[P_RPATH]",
+    "fullMessage": "<b>TEAM: C</b> | <b>CMH8_All</b>\n📅 11/05/2026 15:42:00\n📧 Profile: ×CMH8_List_Webautomat*5\n🌐 ISP(s): N/A\n🏢 Provider: N/A\n👤 Mailer: Yousra HAMDAN\n📊 Total Out: 235\n\n🟢 s_cmh8_3773: 0 235\n\n📈 Total IPs: 3 | Servers: 1\n🔢 By IP: 4250\n🔢 OFFSET: 172800 | LIMIT: 12750\n\n🔗 RPath: [IP_FROM]\n✉️ From: [P_RPATH]\n\n<blockquote expandable>\n📊 <b>Server Details:</b>\n\n<b>SERVER OFFSET LIMIT</b>\ns_cmh8_3773 172800 12750\n</blockquote>\n<blockquote expandable>\n🌐 <b>Active IP Details (Quota | Out | Rest):</b>\n\n217.18.208.174: 4250 | 3612 | 638\n217.18.208.175: 4250 | 4033 | 217\n217.18.208.176: 4250 | 4250 | 0\n\n</blockquote>\n\n",
+    "id": "rep_1778504050083_1_35327",
+    "ipMap": {
+      "217.18.208.172": [],
+      "217.18.208.173": [],
+      "217.18.208.174": [],
+      "217.18.208.175": [],
+      "217.18.208.176": []
+    },
+    "ipVolumeMap": {
+      "217.18.208.172": 66,
+      "217.18.208.173": 128,
+      "217.18.208.174": 638,
+      "217.18.208.175": 217,
+      "217.18.208.176": 0
+    },
+    "ips": [
+      "217.18.208.174",
+      "217.18.208.175",
+      "217.18.208.176"
+    ],
+    "isps": "N/A",
+    "limit": "12750",
+    "mailer": "Yousra HAMDAN",
+    "offset": "172800",
+    "outSum": 235,
+    "packId": "pack-1778504050058-1-524",
+    "pageName": "CMH8_All",
+    "profile": "×CMH8_List_Webautomat*5",
+    "provider": "N/A",
+    "reportTime": "11/05/2026 15:42:00",
+    "rpath": "[IP_FROM]",
+    "serverData": [
+      {
+        "limit": "12750",
+        "offset": "172800",
+        "serverName": "s_cmh8_3773"
+      }
+    ],
+    "serverStatsRaw": "🟢 s_cmh8_3773: 0 235\n",
+    "status": "Generated",
+    "targetUrl": "http://95.216.72.6:90/deployment/deploy?action=send&id=26538914",
+    "team": "C",
+    "timestamp": "11/05/2026 15:35:00",
+    "totalIps": "3"
+  },
+  {
+    "byIp": 4150,
+    "byServer": "#",
+    "encryptedCode": "7SRp2IemfEYKMnXnI6xB%2Fg%3D%3D",
+    "from": "[P_RPATH]",
+    "fullMessage": "<b>TEAM: C</b> | <b>CMH8_All</b>\n📅 11/05/2026 15:17:23\n📧 Profile: ×CMH8_List_Webautomat*5\n🌐 ISP(s): N/A\n🏢 Provider: N/A\n👤 Mailer: Yousra HAMDAN\n📊 Total Out: 231\n\n🟢 s_cmh8_3773: 600 231\n\n📈 Total IPs: 3 | Servers: 1\n🔢 By IP: 4150\n🔢 OFFSET: 160350 | LIMIT: 12450\n\n🔗 RPath: [IP_FROM]\n✉️ From: [P_RPATH]\n\n<blockquote expandable>\n📊 <b>Server Details:</b>\n\n<b>SERVER OFFSET LIMIT</b>\ns_cmh8_3773 160350 12450\n</blockquote>\n<blockquote expandable>\n🌐 <b>Active IP Details (Quota | Out | Rest):</b>\n\n217.18.208.174: 4150 | 4027 | 123\n217.18.208.175: 4150 | 4027 | 123\n217.18.208.176: 4150 | 4027 | 123\n\n</blockquote>\n\n<blockquote expandable>\n❗️ <b>Errors Details:</b>\n\n<b>Other</b>\n217.18.208.174\n\n</blockquote>",
+    "id": "rep_1778504050069_0_35634",
+    "ipMap": {
+      "217.18.208.172": [],
+      "217.18.208.173": [],
+      "217.18.208.174": [
+        "Other"
+      ],
+      "217.18.208.175": [],
+      "217.18.208.176": []
+    },
+    "ipVolumeMap": {
+      "217.18.208.172": 0,
+      "217.18.208.173": 0,
+      "217.18.208.174": 123,
+      "217.18.208.175": 123,
+      "217.18.208.176": 123
+    },
+    "ips": [
+      "217.18.208.174",
+      "217.18.208.175",
+      "217.18.208.176"
+    ],
+    "isps": "N/A",
+    "limit": "12450",
+    "mailer": "Yousra HAMDAN",
+    "offset": "160350",
+    "outSum": 231,
+    "packId": "pack-1778504050058-0-930",
+    "pageName": "CMH8_All",
+    "profile": "×CMH8_List_Webautomat*5",
+    "provider": "N/A",
+    "reportTime": "11/05/2026 15:17:23",
+    "rpath": "[IP_FROM]",
+    "serverData": [
+      {
+        "limit": "12450",
+        "offset": "160350",
+        "serverName": "s_cmh8_3773"
+      }
+    ],
+    "serverStatsRaw": "🟢 s_cmh8_3773: 600 231\n",
+    "status": "Generated",
+    "targetUrl": "http://95.216.72.6:90/deployment/deploy?action=send&id=26538914",
+    "team": "C",
+    "timestamp": "11/05/2026 15:10:00",
+    "totalIps": "3"
+  },
+  {
+    "byIp": 4800,
+    "byServer": "#",
+    "encryptedCode": "7SRp2IemfEYKMnXnI6xB%2Fg%3D%3D",
+    "from": "[P_RPATH]",
+    "fullMessage": "<b>TEAM: C</b> | <b>CMH8_All</b>\n📅 11/05/2026 15:16:01\n📧 Profile: ×CMH8_List_Webautomat*5\n🌐 ISP(s): N/A\n🏢 Provider: N/A\n👤 Mailer: Yousra HAMDAN\n📊 Total Out: 15502\n\n🟢 s_cmh8_3773: 17800 15502\n\n📈 Total IPs: 2 | Servers: 1\n🔢 By IP: 4800\n🔢 OFFSET: 150750 | LIMIT: 9600\n\n🔗 RPath: [IP_FROM]\n✉️ From: [P_RPATH]\n\n<blockquote expandable>\n📊 <b>Server Details:</b>\n\n<b>SERVER OFFSET LIMIT</b>\ns_cmh8_3773 150750 9600\n</blockquote>\n<blockquote expandable>\n🌐 <b>Active IP Details (Quota | Out | Rest):</b>\n\n217.18.208.172: 4800 | 4008 | 792\n217.18.208.173: 4800 | 3688 | 1112\n\n</blockquote>\n\n<blockquote expandable>\n❗️ <b>Errors Details:</b>\n\n<b>Other</b>\n217.18.208.174\n\n</blockquote>",
+    "id": "rep_1778504008205_3_59447",
+    "ipMap": {
+      "217.18.208.172": [],
+      "217.18.208.173": [],
+      "217.18.208.174": [
+        "Other"
+      ],
+      "217.18.208.175": [],
+      "217.18.208.176": []
+    },
+    "ipVolumeMap": {
+      "217.18.208.172": 792,
+      "217.18.208.173": 1112,
+      "217.18.208.174": 143,
+      "217.18.208.175": 131,
+      "217.18.208.176": 101
+    },
+    "ips": [
+      "217.18.208.172",
+      "217.18.208.173"
+    ],
+    "isps": "N/A",
+    "limit": "9600",
+    "mailer": "Yousra HAMDAN",
+    "offset": "150750",
+    "outSum": 15502,
+    "packId": "pack-1778504008166-3-143",
+    "pageName": "CMH8_All",
+    "profile": "×CMH8_List_Webautomat*5",
+    "provider": "N/A",
+    "reportTime": "11/05/2026 15:16:01",
+    "rpath": "[IP_FROM]",
+    "serverData": [
+      {
+        "limit": "9600",
+        "offset": "150750",
+        "serverName": "s_cmh8_3773"
+      }
+    ],
+    "serverStatsRaw": "🟢 s_cmh8_3773: 17800 15502\n",
+    "status": "Generated",
+    "targetUrl": "http://95.216.72.6:90/deployment/deploy?action=send&id=26538914",
+    "team": "C",
+    "timestamp": "11/05/2026 15:09:00",
+    "totalIps": "2"
+  },
+  {
+    "byIp": 4600,
+    "byServer": "#",
+    "encryptedCode": "7SRp2IemfEYKMnXnI6xB%2Fg%3D%3D",
+    "from": "[P_RPATH]",
+    "fullMessage": "<b>TEAM: C</b> | <b>CMH8_All</b>\n📅 11/05/2026 14:51:00\n📧 Profile: ×CMH8_List_Webautomat*5\n🌐 ISP(s): N/A\n🏢 Provider: N/A\n👤 Mailer: Yousra HAMDAN\n📊 Total Out: 7430\n\n🟢 s_cmh8_3773: 8475 7430\n\n📈 Total IPs: 2 | Servers: 1\n🔢 By IP: 4600\n🔢 OFFSET: 141550 | LIMIT: 9200\n\n🔗 RPath: [IP_FROM]\n✉️ From: [P_RPATH]\n\n<blockquote expandable>\n📊 <b>Server Details:</b>\n\n<b>SERVER OFFSET LIMIT</b>\ns_cmh8_3773 141550 9200\n</blockquote>\n<blockquote expandable>\n🌐 <b>Active IP Details (Quota | Out | Rest):</b>\n\n217.18.208.172: 4600 | 4009 | 591\n217.18.208.173: 4600 | 4147 | 453\n\n</blockquote>\n\n",
+    "id": "rep_1778504008198_2_67464",
+    "ipMap": {
+      "217.18.208.172": [],
+      "217.18.208.173": []
+    },
+    "ipVolumeMap": {
+      "217.18.208.172": 591,
+      "217.18.208.173": 453
+    },
+    "ips": [
+      "217.18.208.172",
+      "217.18.208.173"
+    ],
+    "isps": "N/A",
+    "limit": "9200",
+    "mailer": "Yousra HAMDAN",
+    "offset": "141550",
+    "outSum": 7430,
+    "packId": "pack-1778504008166-2-322",
+    "pageName": "CMH8_All",
+    "profile": "×CMH8_List_Webautomat*5",
+    "provider": "N/A",
+    "reportTime": "11/05/2026 14:51:00",
+    "rpath": "[IP_FROM]",
+    "serverData": [
+      {
+        "limit": "9200",
+        "offset": "141550",
+        "serverName": "s_cmh8_3773"
+      }
+    ],
+    "serverStatsRaw": "🟢 s_cmh8_3773: 8475 7430\n",
+    "status": "Generated",
+    "targetUrl": "http://95.216.72.6:90/deployment/deploy?action=send&id=26538914",
+    "team": "C",
+    "timestamp": "11/05/2026 14:44:00",
+    "totalIps": "2"
+  },
+  {
+    "byIp": 4400,
+    "byServer": "#",
+    "encryptedCode": "7SRp2IemfEYKMnXnI6xB%2Fg%3D%3D",
+    "from": "[P_RPATH]",
+    "fullMessage": "<b>TEAM: C</b> | <b>CMH8_All</b>\n📅 11/05/2026 14:26:00\n📧 Profile: ×CMH8_List_Webautomat*5\n🌐 ISP(s): N/A\n🏢 Provider: N/A\n👤 Mailer: Yousra HAMDAN\n📊 Total Out: 0\n\n🟢 s_cmh8_3773: 1200 0\n\n📈 Total IPs: 2 | Servers: 1\n🔢 By IP: 4400\n🔢 OFFSET: 132750 | LIMIT: 8800\n\n🔗 RPath: [IP_FROM]\n✉️ From: [P_RPATH]\n\n<blockquote expandable>\n📊 <b>Server Details:</b>\n\n<b>SERVER OFFSET LIMIT</b>\ns_cmh8_3773 132750 8800\n</blockquote>\n<blockquote expandable>\n🌐 <b>Active IP Details (Quota | Out | Rest):</b>\n\n217.18.208.172: 4400 | 3221 | 1179\n217.18.208.173: 4400 | 3267 | 1133\n\n</blockquote>\n\n",
+    "id": "rep_1778504008190_1_80398",
+    "ipMap": {
+      "217.18.208.172": [],
+      "217.18.208.173": []
+    },
+    "ipVolumeMap": {
+      "217.18.208.172": 1179,
+      "217.18.208.173": 1133
+    },
+    "ips": [
+      "217.18.208.172",
+      "217.18.208.173"
+    ],
+    "isps": "N/A",
+    "limit": "8800",
+    "mailer": "Yousra HAMDAN",
+    "offset": "132750",
+    "outSum": 0,
+    "packId": "pack-1778504008166-1-80",
+    "pageName": "CMH8_All",
+    "profile": "×CMH8_List_Webautomat*5",
+    "provider": "N/A",
+    "reportTime": "11/05/2026 14:26:00",
+    "rpath": "[IP_FROM]",
+    "serverData": [
+      {
+        "limit": "8800",
+        "offset": "132750",
+        "serverName": "s_cmh8_3773"
+      }
+    ],
+    "serverStatsRaw": "🟢 s_cmh8_3773: 1200 0\n",
+    "status": "Generated",
+    "targetUrl": "http://95.216.72.6:90/deployment/deploy?action=send&id=26538914",
+    "team": "C",
+    "timestamp": "11/05/2026 14:19:00",
+    "totalIps": "2"
+  },
+  {
+    "byIp": 4200,
+    "byServer": "#",
+    "encryptedCode": "7SRp2IemfEYKMnXnI6xB%2Fg%3D%3D",
+    "from": "[P_RPATH]",
+    "fullMessage": "<b>TEAM: C</b> | <b>CMH8_All</b>\n📅 11/05/2026 14:01:00\n📧 Profile: ×CMH8_List_Webautomat*5\n🌐 ISP(s): N/A\n🏢 Provider: N/A\n👤 Mailer: Yousra HAMDAN\n📊 Total Out: 1705\n\n🟢 s_cmh8_3773: 2000 1705\n\n📈 Total IPs: 2 | Servers: 1\n🔢 By IP: 4200\n🔢 OFFSET: 124350 | LIMIT: 8400\n\n🔗 RPath: [IP_FROM]\n✉️ From: [P_RPATH]\n\n<blockquote expandable>\n📊 <b>Server Details:</b>\n\n<b>SERVER OFFSET LIMIT</b>\ns_cmh8_3773 124350 8400\n</blockquote>\n<blockquote expandable>\n🌐 <b>Active IP Details (Quota | Out | Rest):</b>\n\n217.18.208.172: 4200 | 3472 | 728\n217.18.208.173: 4200 | 3527 | 673\n\n</blockquote>\n\n",
+    "id": "rep_1778504008179_0_85672",
+    "ipMap": {
+      "217.18.208.172": [],
+      "217.18.208.173": []
+    },
+    "ipVolumeMap": {
+      "217.18.208.172": 728,
+      "217.18.208.173": 673
+    },
+    "ips": [
+      "217.18.208.172",
+      "217.18.208.173"
+    ],
+    "isps": "N/A",
+    "limit": "8400",
+    "mailer": "Yousra HAMDAN",
+    "offset": "124350",
+    "outSum": 1705,
+    "packId": "pack-1778504008166-0-815",
+    "pageName": "CMH8_All",
+    "profile": "×CMH8_List_Webautomat*5",
+    "provider": "N/A",
+    "reportTime": "11/05/2026 14:01:00",
+    "rpath": "[IP_FROM]",
+    "serverData": [
+      {
+        "limit": "8400",
+        "offset": "124350",
+        "serverName": "s_cmh8_3773"
+      }
+    ],
+    "serverStatsRaw": "🟢 s_cmh8_3773: 2000 1705\n",
+    "status": "Generated",
+    "targetUrl": "http://95.216.72.6:90/deployment/deploy?action=send&id=26538914",
+    "team": "C",
+    "timestamp": "11/05/2026 13:54:00",
+    "totalIps": "2"
+  },
+  {
+    "byIp": 0,
+    "byServer": "#",
+    "encryptedCode": "7SRp2IemfEYKMnXnI6xB%2Fg%3D%3D",
+    "from": "N/A",
+    "fullMessage": "Report is being generated...",
+    "id": "cmd_1778503609284_81587",
+    "ipMap": {},
+    "limit": 50,
+    "mailer": "N/A",
+    "offset": 0,
+    "outSum": "...",
+    "packId": "pack-1778503609284-0-630",
+    "pageName": "CMH8_All",
+    "profile": "N/A",
+    "rpath": "[IP_FROM]",
+    "serverData": [],
+    "serverStatsRaw": "Generating report...",
+    "status": "Pending",
+    "targetUrl": "http://95.216.72.6:90/deployment/deploy?action=send&id=26538914",
+    "team": "C",
+    "timestamp": "11/05/2026 13:47:00",
+    "totalIps": 0
+  },
+  {
+    "byIp": 4200,
+    "byServer": "#",
+    "encryptedCode": "7SRp2IemfEYKMnXnI6xB%2Fg%3D%3D",
+    "from": "[P_RPATH]",
+    "fullMessage": "<b>TEAM: C</b> | <b>CMH8_All</b>\n📅 11/05/2026 13:13:00\n📧 Profile: ×CMH8_List_Webautomat*5\n🌐 ISP(s): N/A\n🏢 Provider: N/A\n👤 Mailer: Yousra HAMDAN\n📊 Total Out: 848\n\n🟢 s_cmh8_3773: 1500 848\n\n📈 Total IPs: 5 | Servers: 1\n🔢 By IP: 4200\n🔢 OFFSET: 91050 | LIMIT: 21000\n\n🔗 RPath: [IP_FROM]\n✉️ From: [P_RPATH]\n\n<blockquote expandable>\n📊 <b>Server Details:</b>\n\n<b>SERVER OFFSET LIMIT</b>\ns_cmh8_3773 91050 21000\n</blockquote>\n<blockquote expandable>\n🌐 <b>Active IP Details (Quota | Out | Rest):</b>\n\n217.18.208.172: 4200 | 4153 | 47\n217.18.208.173: 4200 | 4097 | 103\n217.18.208.174: 4200 | 3009 | 1191\n217.18.208.175: 4200 | 3119 | 1081\n217.18.208.176: 4200 | 3131 | 1069\n\n</blockquote>\n\n<blockquote expandable>\n❗️ <b>Errors Details:</b>\n\n<b>Connection closed</b>\n217.18.208.174\n217.18.208.175\n217.18.208.176\n\n<b>Rate limit SPF</b>\n217.18.208.174\n217.18.208.175\n217.18.208.176\n\n</blockquote>",
+    "id": "rep_1778492143740_6_10337",
+    "ipMap": {
+      "217.18.208.172": [],
+      "217.18.208.173": [],
+      "217.18.208.174": [
+        "Connection closed",
+        "Rate limit SPF"
+      ],
+      "217.18.208.175": [
+        "Rate limit SPF",
+        "Connection closed"
+      ],
+      "217.18.208.176": [
+        "Connection closed",
+        "Rate limit SPF"
+      ]
+    },
+    "ipVolumeMap": {
+      "217.18.208.172": 47,
+      "217.18.208.173": 103,
+      "217.18.208.174": 1191,
+      "217.18.208.175": 1081,
+      "217.18.208.176": 1069
+    },
+    "ips": [
+      "217.18.208.172",
+      "217.18.208.173",
+      "217.18.208.174",
+      "217.18.208.175",
+      "217.18.208.176"
+    ],
+    "isps": "N/A",
+    "limit": "21000",
+    "mailer": "Yousra HAMDAN",
+    "offset": "91050",
+    "outSum": 848,
+    "packId": "pack-1778492143664-6-887",
+    "pageName": "CMH8_All",
+    "profile": "×CMH8_List_Webautomat*5",
+    "provider": "N/A",
+    "reportTime": "11/05/2026 13:13:00",
+    "rpath": "[IP_FROM]",
+    "serverData": [
+      {
+        "limit": "21000",
+        "offset": "91050",
+        "serverName": "s_cmh8_3773"
+      }
+    ],
+    "serverStatsRaw": "🟢 s_cmh8_3773: 1500 848\n",
+    "status": "Generated",
+    "targetUrl": "http://95.216.72.6:90/deployment/deploy?action=send&id=26538914",
+    "team": "C",
+    "timestamp": "11/05/2026 13:06:00",
+    "totalIps": "5"
+  },
+  {
+    "byIp": 4000,
+    "byServer": "#",
+    "encryptedCode": "7SRp2IemfEYKMnXnI6xB%2Fg%3D%3D",
+    "from": "[P_RPATH]",
+    "fullMessage": "<b>TEAM: C</b> | <b>CMH8_All</b>\n📅 11/05/2026 12:48:00\n📧 Profile: ×CMH8_List_Webautomat*5\n🌐 ISP(s): N/A\n🏢 Provider: N/A\n👤 Mailer: Yousra HAMDAN\n📊 Total Out: 17285\n\n🟢 s_cmh8_3773: 18300 17285\n\n📈 Total IPs: 5 | Servers: 1\n🔢 By IP: 4000\n🔢 OFFSET: 71050 | LIMIT: 20000\n\n🔗 RPath: [IP_FROM]\n✉️ From: [P_RPATH]\n\n<blockquote expandable>\n📊 <b>Server Details:</b>\n\n<b>SERVER OFFSET LIMIT</b>\ns_cmh8_3773 71050 20000\n</blockquote>\n<blockquote expandable>\n🌐 <b>Active IP Details (Quota | Out | Rest):</b>\n\n217.18.208.172: 4000 | 3819 | 181\n217.18.208.173: 4000 | 3713 | 287\n217.18.208.174: 4000 | 3712 | 288\n217.18.208.175: 4000 | 3796 | 204\n217.18.208.176: 4000 | 3949 | 51\n\n</blockquote>\n\n",
+    "id": "rep_1778492143731_5_57397",
+    "ipMap": {
+      "217.18.208.172": [],
+      "217.18.208.173": [],
+      "217.18.208.174": [],
+      "217.18.208.175": [],
+      "217.18.208.176": []
+    },
+    "ipVolumeMap": {
+      "217.18.208.172": 181,
+      "217.18.208.173": 287,
+      "217.18.208.174": 288,
+      "217.18.208.175": 204,
+      "217.18.208.176": 51
+    },
+    "ips": [
+      "217.18.208.172",
+      "217.18.208.173",
+      "217.18.208.174",
+      "217.18.208.175",
+      "217.18.208.176"
+    ],
+    "isps": "N/A",
+    "limit": "20000",
+    "mailer": "Yousra HAMDAN",
+    "offset": "71050",
+    "outSum": 17285,
+    "packId": "pack-1778492143664-5-966",
+    "pageName": "CMH8_All",
+    "profile": "×CMH8_List_Webautomat*5",
+    "provider": "N/A",
+    "reportTime": "11/05/2026 12:48:00",
+    "rpath": "[IP_FROM]",
+    "serverData": [
+      {
+        "limit": "20000",
+        "offset": "71050",
+        "serverName": "s_cmh8_3773"
+      }
+    ],
+    "serverStatsRaw": "🟢 s_cmh8_3773: 18300 17285\n",
+    "status": "Generated",
+    "targetUrl": "http://95.216.72.6:90/deployment/deploy?action=send&id=26538914",
+    "team": "C",
+    "timestamp": "11/05/2026 12:41:00",
+    "totalIps": "5"
+  },
+  {
+    "byIp": 3800,
+    "byServer": "#",
+    "encryptedCode": "7SRp2IemfEYKMnXnI6xB%2Fg%3D%3D",
+    "from": "[P_RPATH]",
+    "fullMessage": "<b>TEAM: C</b> | <b>CMH8_All</b>\n📅 11/05/2026 12:23:00\n📧 Profile: ×CMH8_List_Webautomat*5\n🌐 ISP(s): N/A\n🏢 Provider: N/A\n👤 Mailer: Yousra HAMDAN\n📊 Total Out: 302\n\n🟢 s_cmh8_3773: 340 302\n\n📈 Total IPs: 5 | Servers: 1\n🔢 By IP: 3800\n🔢 OFFSET: 52050 | LIMIT: 19000\n\n🔗 RPath: [IP_FROM]\n✉️ From: [P_RPATH]\n\n<blockquote expandable>\n📊 <b>Server Details:</b>\n\n<b>SERVER OFFSET LIMIT</b>\ns_cmh8_3773 52050 19000\n</blockquote>\n<blockquote expandable>\n🌐 <b>Active IP Details (Quota | Out | Rest):</b>\n\n217.18.208.172: 3800 | 3794 | 6\n217.18.208.173: 3800 | 3789 | 11\n217.18.208.174: 3800 | 3794 | 6\n217.18.208.175: 3800 | 3792 | 8\n217.18.208.176: 3800 | 3793 | 7\n\n</blockquote>\n\n",
+    "id": "rep_1778492143721_4_27055",
+    "ipMap": {
+      "217.18.208.172": [],
+      "217.18.208.173": [],
+      "217.18.208.174": [],
+      "217.18.208.175": [],
+      "217.18.208.176": []
+    },
+    "ipVolumeMap": {
+      "217.18.208.172": 6,
+      "217.18.208.173": 11,
+      "217.18.208.174": 6,
+      "217.18.208.175": 8,
+      "217.18.208.176": 7
+    },
+    "ips": [
+      "217.18.208.172",
+      "217.18.208.173",
+      "217.18.208.174",
+      "217.18.208.175",
+      "217.18.208.176"
+    ],
+    "isps": "N/A",
+    "limit": "19000",
+    "mailer": "Yousra HAMDAN",
+    "offset": "52050",
+    "outSum": 302,
+    "packId": "pack-1778492143664-4-427",
+    "pageName": "CMH8_All",
+    "profile": "×CMH8_List_Webautomat*5",
+    "provider": "N/A",
+    "reportTime": "11/05/2026 12:23:00",
+    "rpath": "[IP_FROM]",
+    "serverData": [
+      {
+        "limit": "19000",
+        "offset": "52050",
+        "serverName": "s_cmh8_3773"
+      }
+    ],
+    "serverStatsRaw": "🟢 s_cmh8_3773: 340 302\n",
+    "status": "Generated",
+    "targetUrl": "http://95.216.72.6:90/deployment/deploy?action=send&id=26538914",
+    "team": "C",
+    "timestamp": "11/05/2026 12:16:00",
+    "totalIps": "5"
+  },
+  {
+    "byIp": 3600,
+    "byServer": "#",
+    "encryptedCode": "7SRp2IemfEYKMnXnI6xB%2Fg%3D%3D",
+    "from": "[P_RPATH]",
+    "fullMessage": "<b>TEAM: C</b> | <b>CMH8_All</b>\n📅 11/05/2026 11:58:00\n📧 Profile: ×CMH8_List_Webautomat*5\n🌐 ISP(s): N/A\n🏢 Provider: N/A\n👤 Mailer: Yousra HAMDAN\n📊 Total Out: 15411\n\n🟢 s_cmh8_3773: 16525 15411\n\n📈 Total IPs: 5 | Servers: 1\n🔢 By IP: 3600\n🔢 OFFSET: 34050 | LIMIT: 18000\n\n🔗 RPath: [IP_FROM]\n✉️ From: [P_RPATH]\n\n<blockquote expandable>\n📊 <b>Server Details:</b>\n\n<b>SERVER OFFSET LIMIT</b>\ns_cmh8_3773 34050 18000\n</blockquote>\n<blockquote expandable>\n🌐 <b>Active IP Details (Quota | Out | Rest):</b>\n\n217.18.208.172: 3600 | 3577 | 23\n217.18.208.173: 3600 | 3187 | 413\n217.18.208.174: 3600 | 3196 | 404\n217.18.208.175: 3600 | 3461 | 139\n217.18.208.176: 3600 | 3466 | 134\n\n</blockquote>\n\n",
+    "id": "rep_1778492143714_3_74431",
+    "ipMap": {
+      "217.18.208.172": [],
+      "217.18.208.173": [],
+      "217.18.208.174": [],
+      "217.18.208.175": [],
+      "217.18.208.176": []
+    },
+    "ipVolumeMap": {
+      "217.18.208.172": 23,
+      "217.18.208.173": 413,
+      "217.18.208.174": 404,
+      "217.18.208.175": 139,
+      "217.18.208.176": 134
+    },
+    "ips": [
+      "217.18.208.172",
+      "217.18.208.173",
+      "217.18.208.174",
+      "217.18.208.175",
+      "217.18.208.176"
+    ],
+    "isps": "N/A",
+    "limit": "18000",
+    "mailer": "Yousra HAMDAN",
+    "offset": "34050",
+    "outSum": 15411,
+    "packId": "pack-1778492143664-3-123",
+    "pageName": "CMH8_All",
+    "profile": "×CMH8_List_Webautomat*5",
+    "provider": "N/A",
+    "reportTime": "11/05/2026 11:58:00",
+    "rpath": "[IP_FROM]",
+    "serverData": [
+      {
+        "limit": "18000",
+        "offset": "34050",
+        "serverName": "s_cmh8_3773"
+      }
+    ],
+    "serverStatsRaw": "🟢 s_cmh8_3773: 16525 15411\n",
+    "status": "Generated",
+    "targetUrl": "http://95.216.72.6:90/deployment/deploy?action=send&id=26538914",
+    "team": "C",
+    "timestamp": "11/05/2026 11:51:00",
+    "totalIps": "5"
+  },
+  {
+    "byIp": 3400,
+    "byServer": "#",
+    "encryptedCode": "7SRp2IemfEYKMnXnI6xB%2Fg%3D%3D",
+    "from": "[P_RPATH]",
+    "fullMessage": "<b>TEAM: C</b> | <b>CMH8_All</b>\n📅 11/05/2026 11:33:00\n📧 Profile: ×CMH8_List_Webautomat*5\n🌐 ISP(s): N/A\n🏢 Provider: N/A\n👤 Mailer: Yousra HAMDAN\n📊 Total Out: 14625\n\n🟢 s_cmh8_3773: 15961 14625\n\n📈 Total IPs: 5 | Servers: 1\n🔢 By IP: 3400\n🔢 OFFSET: 17050 | LIMIT: 17000\n\n🔗 RPath: [IP_FROM]\n✉️ From: [P_RPATH]\n\n<blockquote expandable>\n📊 <b>Server Details:</b>\n\n<b>SERVER OFFSET LIMIT</b>\ns_cmh8_3773 17050 17000\n</blockquote>\n<blockquote expandable>\n🌐 <b>Active IP Details (Quota | Out | Rest):</b>\n\n217.18.208.172: 3400 | 2965 | 435\n217.18.208.173: 3400 | 2875 | 525\n217.18.208.174: 3400 | 3263 | 137\n217.18.208.175: 3400 | 3319 | 81\n217.18.208.176: 3400 | 3243 | 157\n\n</blockquote>\n\n",
+    "id": "rep_1778492143705_2_57390",
+    "ipMap": {
+      "217.18.208.172": [],
+      "217.18.208.173": [],
+      "217.18.208.174": [],
+      "217.18.208.175": [],
+      "217.18.208.176": []
+    },
+    "ipVolumeMap": {
+      "217.18.208.172": 435,
+      "217.18.208.173": 525,
+      "217.18.208.174": 137,
+      "217.18.208.175": 81,
+      "217.18.208.176": 157
+    },
+    "ips": [
+      "217.18.208.172",
+      "217.18.208.173",
+      "217.18.208.174",
+      "217.18.208.175",
+      "217.18.208.176"
+    ],
+    "isps": "N/A",
+    "limit": "17000",
+    "mailer": "Yousra HAMDAN",
+    "offset": "17050",
+    "outSum": 14625,
+    "packId": "pack-1778492143664-2-945",
+    "pageName": "CMH8_All",
+    "profile": "×CMH8_List_Webautomat*5",
+    "provider": "N/A",
+    "reportTime": "11/05/2026 11:33:00",
+    "rpath": "[IP_FROM]",
+    "serverData": [
+      {
+        "limit": "17000",
+        "offset": "17050",
+        "serverName": "s_cmh8_3773"
+      }
+    ],
+    "serverStatsRaw": "🟢 s_cmh8_3773: 15961 14625\n",
+    "status": "Generated",
+    "targetUrl": "http://95.216.72.6:90/deployment/deploy?action=send&id=26538914",
+    "team": "C",
+    "timestamp": "11/05/2026 11:26:00",
+    "totalIps": "5"
+  },
+  {
+    "byIp": 3200,
+    "byServer": "#",
+    "encryptedCode": "7SRp2IemfEYKMnXnI6xB%2Fg%3D%3D",
+    "from": "[P_RPATH]",
+    "fullMessage": "<b>TEAM: C</b> | <b>CMH8_All</b>\n📅 11/05/2026 11:08:00\n📧 Profile: ×CMH8_OLD_seeds_warmup\n🌐 ISP(s): N/A\n🏢 Provider: N/A\n👤 Mailer: Yousra HAMDAN\n📊 Total Out: 14566\n\n🟢 s_cmh8_3773: 15302 14566\n\n📈 Total IPs: 5 | Servers: 1\n🔢 By IP: 3200\n🔢 OFFSET: 1050 | LIMIT: 16000\n\n🔗 RPath: [IP_FROM]\n✉️ From: [P_RPATH]\n\n<blockquote expandable>\n📊 <b>Server Details:</b>\n\n<b>SERVER OFFSET LIMIT</b>\ns_cmh8_3773 1050 16000\n</blockquote>\n<blockquote expandable>\n🌐 <b>Active IP Details (Quota | Out | Rest):</b>\n\n217.18.208.172: 3200 | 3058 | 142\n217.18.208.173: 3200 | 3045 | 155\n217.18.208.174: 3200 | 3051 | 149\n217.18.208.175: 3200 | 3053 | 147\n217.18.208.176: 3200 | 3060 | 140\n\n</blockquote>\n\n",
+    "id": "rep_1778492143698_1_6854",
+    "ipMap": {
+      "217.18.208.172": [],
+      "217.18.208.173": [],
+      "217.18.208.174": [],
+      "217.18.208.175": [],
+      "217.18.208.176": []
+    },
+    "ipVolumeMap": {
+      "217.18.208.172": 142,
+      "217.18.208.173": 155,
+      "217.18.208.174": 149,
+      "217.18.208.175": 147,
+      "217.18.208.176": 140
+    },
+    "ips": [
+      "217.18.208.172",
+      "217.18.208.173",
+      "217.18.208.174",
+      "217.18.208.175",
+      "217.18.208.176"
+    ],
+    "isps": "N/A",
+    "limit": "16000",
+    "mailer": "Yousra HAMDAN",
+    "offset": "1050",
+    "outSum": 14566,
+    "packId": "pack-1778492143664-1-529",
+    "pageName": "CMH8_All",
+    "profile": "×CMH8_OLD_seeds_warmup",
+    "provider": "N/A",
+    "reportTime": "11/05/2026 11:08:00",
+    "rpath": "[IP_FROM]",
+    "serverData": [
+      {
+        "limit": "16000",
+        "offset": "1050",
+        "serverName": "s_cmh8_3773"
+      }
+    ],
+    "serverStatsRaw": "🟢 s_cmh8_3773: 15302 14566\n",
+    "status": "Generated",
+    "targetUrl": "http://95.216.72.6:90/deployment/deploy?action=send&id=26538914",
+    "team": "C",
+    "timestamp": "11/05/2026 11:01:00",
+    "totalIps": "5"
+  },
+  {
+    "byIp": 3000,
+    "byServer": "#",
+    "encryptedCode": "7SRp2IemfEYKMnXnI6xB%2Fg%3D%3D",
+    "from": "[P_RPATH]",
+    "fullMessage": "<b>TEAM: C</b> | <b>CMH8_All</b>\n📅 11/05/2026 10:43:00\n📧 Profile: ×CMH8_OLD_seeds_warmup\n🌐 ISP(s): N/A\n🏢 Provider: N/A\n👤 Mailer: Yousra HAMDAN\n📊 Total Out: 8906\n\n🟢 s_cmh8_3773: 9141 8906\n\n📈 Total IPs: 4 | Servers: 1\n🔢 By IP: 3000\n🔢 OFFSET: 129685 | LIMIT: 12000\n\n🔗 RPath: [IP_FROM]\n✉️ From: [P_RPATH]\n\n\n<blockquote expandable>\n🌐 <b>Active IP Details (Quota | Out | Rest):</b>\n\n217.18.208.172: 3000 | 2955 | 45\n217.18.208.173: 3000 | 2952 | 48\n217.18.208.175: 3000 | 2958 | 42\n217.18.208.176: 3000 | 2955 | 45\n\n</blockquote>\n\n<blockquote expandable>\n❗️ <b>Errors Details:</b>\n\n<b>Other</b>\n217.18.208.176\n\n</blockquote>",
+    "id": "rep_1778492143688_0_46533",
+    "ipMap": {
+      "217.18.208.172": [],
+      "217.18.208.173": [],
+      "217.18.208.174": [],
+      "217.18.208.175": [],
+      "217.18.208.176": [
+        "Other"
+      ]
+    },
+    "ipVolumeMap": {
+      "217.18.208.172": 45,
+      "217.18.208.173": 48,
+      "217.18.208.174": 48,
+      "217.18.208.175": 42,
+      "217.18.208.176": 45
+    },
+    "ips": [
+      "217.18.208.172",
+      "217.18.208.173",
+      "217.18.208.175",
+      "217.18.208.176"
+    ],
+    "isps": "N/A",
+    "limit": "12000",
+    "mailer": "Yousra HAMDAN",
+    "offset": "129685",
+    "outSum": 8906,
+    "packId": "pack-1778492143664-0-37",
+    "pageName": "CMH8_All",
+    "profile": "×CMH8_OLD_seeds_warmup",
+    "provider": "N/A",
+    "reportTime": "11/05/2026 10:43:00",
+    "rpath": "[IP_FROM]",
+    "serverData": [],
+    "serverStatsRaw": "🟢 s_cmh8_3773: 9141 8906\n",
+    "status": "Generated",
+    "targetUrl": "http://95.216.72.6:90/deployment/deploy?action=send&id=26538914",
+    "team": "C",
+    "timestamp": "11/05/2026 10:36:00",
+    "totalIps": "4"
+  }
+]

@@ -1,0 +1,4 @@
+entity,recommended_initial_volume,recommended_drops_per_day,recommended_growth_rate,recommended_time_gap_min,recommended_maximum_safe_volume,number_of_safe_start_ips_used
+cmh11,4800.0,8.0,-0.007741081804933159,178.21,77634.0,14
+cmh8,3315.0,4.0,0.009877085162423133,18.796,21988.0,10
+cmh9,996.0,2.0,0.0,0.0,3996.0,11

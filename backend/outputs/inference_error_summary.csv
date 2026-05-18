@@ -1,0 +1,4 @@
+metric,value
+avg_spf_error_probability,0.0007555555555555555
+avg_dkim_error_probability,0.0006840447454891706
+avg_netblock_error_probability,0.0008136752136752136

@@ -1,0 +1,4 @@
+scenario,final_cumulative_volume,max_daily_volume,avg_risk_probability,max_error_probability,dangerous_days,risk_days,safe_days
+aggressive_strategy,1654765,276961,0.6791666666666667,0.0,20,1,9
+moderate_strategy,164450,15860,0.17657,0.0,5,1,24
+safe_strategy,46553,2884,0.05,0.0,0,0,30

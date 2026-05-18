@@ -1,0 +1,2 @@
+total_ips,continue_sending,slow_down_growth,increase_time_gap,reduce_volume,stop_sending_immediately,critical_ips,high_severity_ips,average_blocking_probability
+132,44,56,0,32,0,0,32,0.0006
