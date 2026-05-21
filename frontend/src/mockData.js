@@ -30,7 +30,7 @@ export const mockIPs = [
 ];
 
 export const mockRiskDistribution = [
-  { name: "Safe",      value: 141, color: "#22c55e" },
+  { name: "Safe",      value: 141, color: "#00c9b1" },
   { name: "Risk",      value: 67,  color: "#f59e0b" },
   { name: "Dangerous", value: 29,  color: "#ef4444" },
 ];

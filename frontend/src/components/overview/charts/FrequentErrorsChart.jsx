@@ -8,17 +8,11 @@ import {
   YAxis,
 } from 'recharts';
 import { useLocale } from '../../../context/LocaleContext';
-import { CHART_COLORS } from '../../../utils/colors';
+import { CHART_COLORS, CHART_TOOLTIP_STYLE } from '../../../utils/colors';
 import { formatNumber } from '../../../utils/formatters';
 import ChartCard from './ChartCard';
 
-const tooltipStyle = {
-  background: 'var(--dash-card)',
-  border: '1px solid var(--dash-border)',
-  borderRadius: 8,
-  fontSize: 12,
-  color: 'var(--dash-text)',
-};
+const tooltipStyle = CHART_TOOLTIP_STYLE;
 
 function ErrorBarChart({ data, dataKey, color, title }) {
   return (
@@ -42,8 +36,8 @@ export default function FrequentErrorsChart({ data }) {
   return (
     <ChartCard title={t('charts.frequentErrors')} subtitle={t('charts.frequentErrorsSub')} className="col-span-2">
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
-        <ErrorBarChart data={data} dataKey="count" color={CHART_COLORS.risk} title={t('charts.errorCount')} />
-        <ErrorBarChart data={data} dataKey="volume" color={CHART_COLORS.dangerous} title={t('charts.errorVolume')} />
+        <ErrorBarChart data={data} dataKey="count" color={CHART_COLORS.accent} title={t('charts.errorCount')} />
+        <ErrorBarChart data={data} dataKey="volume" color={CHART_COLORS.secondary} title={t('charts.errorVolume')} />
       </div>
     </ChartCard>
   );

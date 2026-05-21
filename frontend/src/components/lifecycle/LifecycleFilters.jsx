@@ -9,7 +9,7 @@ function SelectField({ label, value, onChange, options, disabled }) {
         value={value}
         onChange={(e) => onChange(e.target.value)}
         disabled={disabled}
-        className="rounded-lg border border-dash bg-dash-input px-3 py-2 text-sm text-dash focus:outline-none focus:ring-2 focus:ring-blue-500/40 disabled:opacity-50"
+        className="rounded-lg dash-input px-3 py-2 text-sm dash-input-focus disabled:opacity-50"
       >
         {options.map((opt) => (
           <option key={opt} value={opt}>
@@ -32,9 +32,9 @@ export default function LifecycleFilters({
   const { t } = useLocale();
 
   return (
-    <div className="rounded-xl border border-dash bg-dash-card p-4">
+    <div className="glass-card p-4">
       <div className="flex items-center gap-2 mb-4">
-        <Filter className="w-4 h-4 text-blue-400" />
+        <Filter className="w-4 h-4 text-[#00c9b1]" />
         <h3 className="text-sm font-semibold text-dash">{t('lifecycle.filtersTitle')}</h3>
       </div>
 
@@ -47,7 +47,7 @@ export default function LifecycleFilters({
             value={filters.ip}
             onChange={(e) => onChange('ip', e.target.value)}
             disabled={disabled || !ips.length}
-            className="rounded-lg border border-dash bg-dash-input px-3 py-2 text-sm text-dash font-mono focus:outline-none focus:ring-2 focus:ring-blue-500/40"
+            className="rounded-lg dash-input px-3 py-2 text-sm font-mono dash-input-focus"
           >
             {ips.map((ip) => (
               <option key={ip} value={ip}>
@@ -102,7 +102,7 @@ export default function LifecycleFilters({
             value={filters.dateFrom}
             onChange={(e) => onChange('dateFrom', e.target.value)}
             disabled={disabled}
-            className="rounded-lg border border-dash bg-dash-input px-3 py-2 text-sm text-dash focus:outline-none focus:ring-2 focus:ring-blue-500/40"
+            className="rounded-lg dash-input px-3 py-2 text-sm dash-input-focus"
           />
         </label>
         <label className="flex flex-col gap-1 min-w-[140px]">
@@ -114,7 +114,7 @@ export default function LifecycleFilters({
             value={filters.dateTo}
             onChange={(e) => onChange('dateTo', e.target.value)}
             disabled={disabled}
-            className="rounded-lg border border-dash bg-dash-input px-3 py-2 text-sm text-dash focus:outline-none focus:ring-2 focus:ring-blue-500/40"
+            className="rounded-lg dash-input px-3 py-2 text-sm dash-input-focus"
           />
         </label>
 

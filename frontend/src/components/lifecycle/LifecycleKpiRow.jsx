@@ -17,8 +17,8 @@ function StatusCard({ label, status }) {
     status === 'Safe' ? 'safe' : status === 'Risk' ? 'risk' : status === 'Dangerous' ? 'dangerous' : 'default';
 
   return (
-    <div className="rounded-xl border border-dash bg-dash-card p-4">
-      <div className="inline-flex p-2 rounded-lg border mb-3 text-blue-400 bg-blue-600/15 border-blue-500/20">
+    <div className="glass-card p-4">
+      <div className="inline-flex p-2 rounded-lg border mb-3 text-[#00c9b1] bg-[#00c9b1]/15 border-[#00c9b1]/25">
         <Activity className="w-4 h-4" />
       </div>
       <p className="text-xs text-dash-faint font-medium mb-1">{label}</p>
@@ -29,8 +29,8 @@ function StatusCard({ label, status }) {
 
 function TextKpi({ icon: Icon, label, value }) {
   return (
-    <div className="rounded-xl border border-dash bg-dash-card p-4">
-      <div className="inline-flex p-2 rounded-lg border mb-3 text-blue-400 bg-blue-600/15 border-blue-500/20">
+    <div className="glass-card p-4">
+      <div className="inline-flex p-2 rounded-lg border mb-3 text-[#00c9b1] bg-[#00c9b1]/15 border-[#00c9b1]/25">
         <Icon className="w-4 h-4" />
       </div>
       <p className="text-xs text-dash-faint font-medium mb-1">{label}</p>
@@ -46,7 +46,7 @@ export default function LifecycleKpiRow({ kpis, loading }) {
     return (
       <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-4">
         {Array.from({ length: 10 }).map((_, i) => (
-          <div key={i} className="h-28 rounded-xl border border-dash bg-dash-card animate-pulse" />
+          <div key={i} className="h-28 glass-card animate-pulse" />
         ))}
       </div>
     );

@@ -8,7 +8,7 @@ import {
   YAxis,
 } from 'recharts';
 import { useLocale } from '../../../context/LocaleContext';
-import { CHART_COLORS } from '../../../utils/colors';
+import { CHART_COLORS, CHART_TOOLTIP_STYLE } from '../../../utils/colors';
 import { formatNumber } from '../../../utils/formatters';
 import ChartCard from './ChartCard';
 
@@ -28,8 +28,8 @@ export default function DailyVolumeChart({ data }) {
           <XAxis dataKey="date" tick={{ fill: CHART_COLORS.text, fontSize: 11 }} axisLine={false} tickLine={false} />
           <YAxis tick={{ fill: CHART_COLORS.text, fontSize: 11 }} axisLine={false} tickLine={false} tickFormatter={(v) => `${(v / 1000).toFixed(0)}k`} />
           <Tooltip
-            contentStyle={{ background: '#1a1d2e', border: '1px solid #2a2f45', borderRadius: 8, fontSize: 12 }}
-            labelStyle={{ color: '#e2e8f0' }}
+            contentStyle={CHART_TOOLTIP_STYLE}
+            labelStyle={{ color: 'var(--dash-text)' }}
             formatter={(v) => [formatNumber(v), 'R_Sent Volume']}
           />
           <Area type="monotone" dataKey="volume" stroke={CHART_COLORS.accent} fill="url(#volumeGrad)" strokeWidth={2} />

@@ -4,11 +4,11 @@ import Sidebar from './Sidebar';
 
 export default function Layout() {
   return (
-    <div className="min-h-screen bg-dash">
+    <div className="dash-app-shell">
       <Sidebar />
-      <div className="pl-64">
+      <div className="dash-app-main">
         <Header />
-        <main className="p-6 min-h-[calc(100vh-3.5rem)]">
+        <main className="dash-app-content p-6">
           <Outlet />
         </main>
       </div>

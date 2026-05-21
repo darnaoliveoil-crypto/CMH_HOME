@@ -19,7 +19,7 @@ export default function LifecycleSummaryTable({ summary, loading }) {
   return (
     <ChartCard title={t('lifecycle.summaryTitle')} subtitle={t('lifecycle.summarySub')}>
       {loading ? (
-        <div className="h-48 animate-pulse rounded-lg bg-dash-input" />
+        <div className="h-48 animate-pulse rounded-lg glass-card" />
       ) : (
         <div className="overflow-x-auto">
           <table className="w-full text-sm min-w-[640px]">

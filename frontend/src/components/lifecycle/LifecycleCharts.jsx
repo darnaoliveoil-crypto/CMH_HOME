@@ -38,7 +38,7 @@ export function SentVsRSentChart({ data }) {
         <YAxis tick={axisTick} axisLine={false} tickLine={false} tickFormatter={(v) => formatNumber(v)} />
         <Tooltip contentStyle={tooltipStyle} formatter={(v, name) => [formatNumber(v), name]} />
         <Line type="monotone" dataKey="sent" name="Sent" stroke={CHART_COLORS.accent} strokeWidth={2} dot={false} />
-        <Line type="monotone" dataKey="rSent" name="R_Sent" stroke={CHART_COLORS.safe} strokeWidth={2} dot={false} />
+        <Line type="monotone" dataKey="rSent" name="R_Sent" stroke={CHART_COLORS.secondary} strokeWidth={2} dot={false} />
       </LineChart>
     </ChartShell>
   );

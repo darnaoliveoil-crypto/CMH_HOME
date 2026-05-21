@@ -9,7 +9,7 @@ export default function SidebarFilters() {
   const { t } = useLocale();
 
   const selectClass =
-    'w-full bg-dash-input border border-dash text-dash text-xs rounded-lg px-2.5 py-2 focus:outline-none focus:border-blue-500 transition-colors cursor-pointer disabled:opacity-50';
+    'w-full dash-input text-dash text-xs rounded-lg px-2.5 py-2 dash-input-focus transition-colors cursor-pointer disabled:opacity-50';
 
   const update = (key, value) => setFilters({ ...filters, [key]: value });
 
@@ -147,7 +147,7 @@ export default function SidebarFilters() {
                 step={100}
                 value={minVol}
                 onChange={handleMinVolume}
-                className="w-full h-1.5 accent-blue-500 cursor-pointer"
+                className="w-full h-1.5 cursor-pointer"
                 aria-label={t('filters.sentVolumeMin')}
               />
             </div>
@@ -163,7 +163,7 @@ export default function SidebarFilters() {
                 step={100}
                 value={maxVol}
                 onChange={handleMaxVolume}
-                className="w-full h-1.5 accent-blue-500 cursor-pointer"
+                className="w-full h-1.5 cursor-pointer"
                 aria-label={t('filters.sentVolumeMax')}
               />
             </div>

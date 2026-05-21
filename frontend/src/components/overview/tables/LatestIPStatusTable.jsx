@@ -64,12 +64,12 @@ export default function LatestIPStatusTable({ data }) {
   const SortIcon = ({ col }) => {
     if (sortKey !== col) return <ArrowUpDown className="w-3 h-3 inline ml-1 opacity-40" />;
     return sortDir === 'asc'
-      ? <ArrowUp className="w-3 h-3 inline ml-1 text-blue-500" />
-      : <ArrowDown className="w-3 h-3 inline ml-1 text-blue-500" />;
+      ? <ArrowUp className="w-3 h-3 inline ml-1 text-[#00c9b1]" />
+      : <ArrowDown className="w-3 h-3 inline ml-1 text-[#00c9b1]" />;
   };
 
   return (
-    <div className="rounded-xl border border-dash bg-dash-card overflow-hidden hover:border-[var(--dash-border-hover)] transition-colors">
+    <div className="glass-card overflow-hidden hover:border-[var(--dash-border-hover)] transition-colors">
       <div className="px-5 py-4 border-b border-dash flex flex-wrap items-center justify-between gap-4">
         <div>
           <h3 className="text-sm font-semibold text-dash">{t('tables.latestStatus')}</h3>
@@ -82,7 +82,7 @@ export default function LatestIPStatusTable({ data }) {
             placeholder={t('tables.searchPlaceholder')}
             value={search}
             onChange={(e) => setSearch(e.target.value)}
-            className="pl-9 pr-4 py-2 rounded-lg bg-dash-input border border-dash text-sm text-dash placeholder:text-dash-faint focus:outline-none focus:border-blue-500 w-64"
+            className="pl-9 pr-4 py-2 rounded-lg dash-input text-sm dash-input-focus w-64"
           />
         </div>
       </div>
@@ -108,7 +108,7 @@ export default function LatestIPStatusTable({ data }) {
             ) : (
               filtered.map((row) => (
                 <tr key={row.ip} className="hover:bg-dash-card-hover transition-colors">
-                  <td className={`${tdClass} font-mono text-blue-500`}>{row.ip}</td>
+                  <td className={`${tdClass} font-mono text-[#00c9b1]`}>{row.ip}</td>
                   <td className={tdClass}>{row.entity}</td>
                   <td className={tdClass}>{row.server}</td>
                   <td className={tdClass}>{formatDatetime(row.last_datetime)}</td>

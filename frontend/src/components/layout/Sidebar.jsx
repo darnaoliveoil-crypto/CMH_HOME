@@ -24,9 +24,9 @@ export default function Sidebar() {
   const showFilters = location.pathname === '/';
 
   return (
-    <aside className="fixed left-0 top-0 z-40 flex h-full w-64 flex-col border-r border-dash bg-[var(--dash-sidebar)]">
+    <aside className="relative z-10 flex h-full w-64 shrink-0 flex-col border-r border-dash bg-[var(--dash-sidebar)] backdrop-blur-md">
       <div className="flex items-center gap-2.5 px-5 py-5 border-b border-dash">
-        <div className="flex h-9 w-9 items-center justify-center rounded-lg bg-blue-600">
+        <div className="flex h-9 w-9 items-center justify-center rounded-lg accent-icon-box shadow-lg shadow-[rgba(0,201,177,0.25)]">
           <Zap className="h-5 w-5 text-white" />
         </div>
         <div>
@@ -42,10 +42,10 @@ export default function Sidebar() {
             to={to}
             end={end}
             className={({ isActive }) =>
-              `flex items-center gap-3 rounded-lg px-3 py-2.5 text-sm font-medium transition-all ${
+              `flex items-center gap-3 rounded-lg px-3 py-2.5 text-sm font-medium transition-all border ${
                 isActive
-                  ? 'bg-blue-600/20 text-blue-500 border border-blue-500/30'
-                  : 'text-dash-muted hover:bg-dash-card hover:text-dash border border-transparent'
+                  ? 'nav-link-active'
+                  : 'text-white/80 border-transparent nav-link-hover hover:text-[var(--dash-accent)]'
               }`
             }
           >

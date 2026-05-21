@@ -17,7 +17,7 @@ export default function Header() {
   }
 
   return (
-    <header className="sticky top-0 z-30 flex h-14 items-center justify-between border-b border-dash bg-[var(--dash-bg-elevated)]/95 backdrop-blur-sm px-6">
+    <header className="relative z-20 flex h-14 shrink-0 items-center justify-between border-b border-dash bg-[var(--dash-bg-elevated)]/95 backdrop-blur-sm px-6">
       <div className="flex items-center gap-3">
         <h1 className="text-lg font-semibold text-dash tracking-tight">{t('appName')}</h1>
         <span className="hidden sm:inline text-xs text-dash-faint border-l border-dash pl-3">
@@ -55,7 +55,7 @@ export default function Header() {
             type="button"
             onClick={() => setTheme('light')}
             className={`flex items-center gap-1 px-2.5 py-1.5 rounded-md text-xs font-medium transition-colors ${
-              !isDark ? 'bg-blue-600 text-white' : 'text-dash-muted hover:text-dash'
+              !isDark ? 'btn-primary text-white' : 'text-dash-muted hover:text-dash'
             }`}
             title={t('header.themeLight')}
           >
@@ -66,7 +66,7 @@ export default function Header() {
             type="button"
             onClick={() => setTheme('dark')}
             className={`flex items-center gap-1 px-2.5 py-1.5 rounded-md text-xs font-medium transition-colors ${
-              isDark ? 'bg-blue-600 text-white' : 'text-dash-muted hover:text-dash'
+              isDark ? 'btn-primary text-white' : 'text-dash-muted hover:text-dash'
             }`}
             title={t('header.themeDark')}
           >
@@ -89,8 +89,8 @@ export default function Header() {
             <p className="text-sm font-medium text-dash">{user?.name ?? t('header.userName')}</p>
             <p className="text-xs text-dash-faint">{user?.email ?? t('header.userEmail')}</p>
           </div>
-          <div className="flex h-8 w-8 items-center justify-center rounded-full bg-blue-600/30 border border-blue-500/40">
-            <User className="h-4 w-4 text-blue-400" />
+          <div className="flex h-8 w-8 items-center justify-center rounded-full bg-[#00c9b1]/20 border border-[#00c9b1]/40">
+            <User className="h-4 w-4 text-[#00c9b1]" />
           </div>
           <button
             type="button"

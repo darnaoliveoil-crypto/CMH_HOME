@@ -6,7 +6,7 @@ import ChartCard from './ChartCard';
 
 const STATE_STYLE = {
   Risk: { bg: 'bg-amber-500', border: 'border-amber-400', text: 'text-amber-950' },
-  Safe: { bg: 'bg-green-500', border: 'border-green-400', text: 'text-green-950' },
+  Safe: { bg: 'bg-[#00c9b1]', border: 'border-[#00e5c8]', text: 'text-[#020d0d]' },
   Dangerous: { bg: 'bg-red-500', border: 'border-red-400', text: 'text-red-950' },
 };
 
@@ -55,7 +55,7 @@ function FlowRow({ from, to, count, total, t }) {
       </span>
       <div className="flex-1 mx-2 h-2 rounded-full bg-[var(--dash-border)] overflow-hidden">
         <div
-          className="h-full rounded-full bg-blue-500 transition-all"
+          className="h-full rounded-full bg-[#00c9b1] transition-all"
           style={{ width: `${Math.min(100, (count / Math.max(total * 0.3, 1)) * 100)}%` }}
         />
       </div>

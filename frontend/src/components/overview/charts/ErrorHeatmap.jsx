@@ -9,7 +9,7 @@ function intensityColor(value, max) {
   if (ratio > 0.75) return 'bg-red-500';
   if (ratio > 0.5) return 'bg-orange-500';
   if (ratio > 0.25) return 'bg-amber-500';
-  if (ratio > 0) return 'bg-blue-600/60';
+  if (ratio > 0) return 'bg-[#00c9b1]/50';
   return 'bg-dash-card';
 }
 
@@ -44,7 +44,7 @@ function HeatmapGrid({ data, xLabels, t }) {
                 <div
                   key={`${errKey}-${i}`}
                   title={`${row.hour ?? row.day} · ${errKey}: ${val}`}
-                  className={`h-7 rounded-sm ${intensityColor(val, maxVal)} hover:ring-1 hover:ring-blue-400 transition-all cursor-default flex items-center justify-center`}
+                  className={`h-7 rounded-sm ${intensityColor(val, maxVal)} hover:ring-1 hover:ring-[#00c9b1] transition-all cursor-default flex items-center justify-center`}
                 >
                   {val > 0 && (
                     <span className="text-[9px] text-white/80 font-medium">{val}</span>
@@ -58,7 +58,7 @@ function HeatmapGrid({ data, xLabels, t }) {
         <div className="flex items-center gap-2 mt-4 text-[10px] text-dash-faint">
           <span>{t('charts.low')}</span>
           <div className="flex gap-0.5">
-            {['bg-dash-card', 'bg-blue-600/60', 'bg-amber-500', 'bg-orange-500', 'bg-red-500'].map((c) => (
+            {['bg-dash-card', 'bg-[#00c9b1]/50', 'bg-amber-500', 'bg-orange-500', 'bg-red-500'].map((c) => (
               <div key={c} className={`w-6 h-3 rounded-sm ${c}`} />
             ))}
           </div>
@@ -89,8 +89,8 @@ export default function ErrorHeatmap({ hourlyData, dayData }) {
             onClick={() => setTab(id)}
             className={`px-4 py-1.5 rounded-lg text-xs font-medium transition-colors ${
               tab === id
-                ? 'bg-blue-600 text-white'
-                : 'bg-dash-input text-dash-muted hover:text-dash border border-dash'
+                ? 'btn-primary text-white'
+                : 'dash-input text-dash-muted hover:text-dash'
             }`}
           >
             {label}

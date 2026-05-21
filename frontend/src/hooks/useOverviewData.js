@@ -256,7 +256,7 @@ function filterMockData(filters) {
       .slice(0, 10),
     latestIPs: source,
     riskDistribution: [
-      { name: 'Safe', value: kpis.safe_ips, color: '#22c55e' },
+      { name: 'Safe', value: kpis.safe_ips, color: '#00c9b1' },
       { name: 'Risk', value: kpis.risk_ips, color: '#f59e0b' },
       { name: 'Dangerous', value: kpis.dangerous_ips, color: '#ef4444' },
     ],
@@ -340,7 +340,7 @@ export function useOverviewData(filters) {
 
       setKpis(normalized);
       setRiskDistribution([
-        { name: 'Safe', value: normalized.safe_ips, color: '#22c55e' },
+        { name: 'Safe', value: normalized.safe_ips, color: '#00c9b1' },
         { name: 'Risk', value: normalized.risk_ips, color: '#f59e0b' },
         { name: 'Dangerous', value: normalized.dangerous_ips, color: '#ef4444' },
       ]);

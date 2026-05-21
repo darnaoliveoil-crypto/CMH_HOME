@@ -14,7 +14,13 @@ function CustomTooltip({ active, payload, t }) {
   if (!active || !payload?.length) return null;
   const { name, value, payload: item } = payload[0];
   return (
-    <div className="rounded-lg border border-dash bg-dash-card px-3 py-2 text-xs shadow-xl">
+    <div
+      className="rounded-lg px-3 py-2 text-xs shadow-xl"
+      style={{
+        background: 'var(--dash-tooltip-bg)',
+        border: '1px solid var(--dash-tooltip-border)',
+      }}
+    >
       <p className="text-dash font-medium">{t(`risk.${name}`) || name}</p>
       <p className="text-dash-muted">{formatNumber(value)} IPs</p>
       <p className="text-dash-faint">{item?.percent ? `${item.percent}%` : ''}</p>

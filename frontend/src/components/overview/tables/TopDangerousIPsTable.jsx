@@ -9,7 +9,7 @@ export default function TopDangerousIPsTable({ data }) {
   const { t } = useLocale();
 
   return (
-    <div className="rounded-xl border border-dash bg-dash-card overflow-hidden hover:border-[var(--dash-border-hover)] transition-colors">
+    <div className="glass-card overflow-hidden hover:border-[var(--dash-border-hover)] transition-colors">
       <div className="px-5 py-4 border-b border-dash">
         <h3 className="text-sm font-semibold text-dash">{t('tables.topDangerous')}</h3>
         <p className="text-xs text-dash-faint mt-0.5">{t('tables.topDangerousSub')}</p>
@@ -32,7 +32,7 @@ export default function TopDangerousIPsTable({ data }) {
           <tbody className="divide-y divide-[var(--dash-border)]">
             {data.map((row) => (
               <tr key={row.ip} className="hover:bg-dash-card-hover transition-colors">
-                <td className={`${tdClass} font-mono text-blue-500`}>{row.ip}</td>
+                <td className={`${tdClass} font-mono text-[#00c9b1]`}>{row.ip}</td>
                 <td className={tdClass}>{row.entity}</td>
                 <td className={tdClass}>{row.server}</td>
                 <td className={tdClass}>{formatDatetime(row.datetime || row.last_datetime)}</td>
@@ -43,7 +43,7 @@ export default function TopDangerousIPsTable({ data }) {
                 <td className={tdClass}>{formatNumber(row.r_sent_per_ip ?? row.last_r_sent)}</td>
                 <td className={tdClass}>{formatPercent(row.sent_ratio, 1)}</td>
                 <td className={tdClass}>
-                  <span className={(row.growth_rate ?? 0) >= 0 ? 'text-red-500' : 'text-green-500'}>
+                  <span className={(row.growth_rate ?? 0) >= 0 ? 'text-red-500' : 'text-[#00c9b1]'}>
                     {(row.growth_rate ?? 0) >= 0 ? '+' : ''}{Number(row.growth_rate ?? 0).toFixed(1)}%
                   </span>
                 </td>
